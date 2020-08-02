@@ -1,0 +1,214 @@
+{
+  "_embedded" : {
+    "doctypes" : [ {
+      "id" : 10,
+      "code" : "18",
+      "vmpVisible" : 1,
+      "status" : 1,
+      "nameRu" : "Вид на жительство",
+      "nameKz" : "Тұруға рұқсат құжат",
+      "nameEn" : "Residence permit",
+      "_links" : {
+        "self" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/doctype/10"
+        },
+        "docType" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/doctype/10"
+        }
+      }
+    }, {
+      "id" : 11,
+      "code" : "17",
+      "vmpVisible" : 1,
+      "status" : 1,
+      "nameRu" : "Виза",
+      "nameKz" : "Виза",
+      "nameEn" : "Visa",
+      "_links" : {
+        "self" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/doctype/11"
+        },
+        "docType" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/doctype/11"
+        }
+      }
+    }, {
+      "id" : 2,
+      "code" : "2",
+      "vmpVisible" : 1,
+      "status" : 1,
+      "nameRu" : "Дипломатический паспорт",
+      "nameKz" : "Дипломаттық паспорт",
+      "nameEn" : "Diplomatic passport",
+      "_links" : {
+        "self" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/doctype/2"
+        },
+        "docType" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/doctype/2"
+        }
+      }
+    }, {
+      "id" : 5,
+      "code" : "5",
+      "vmpVisible" : 1,
+      "status" : 1,
+      "nameRu" : "Коллективный паспорт",
+      "nameKz" : "Коллективтік паспорт",
+      "nameEn" : "Сollective passport",
+      "_links" : {
+        "self" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/doctype/5"
+        },
+        "docType" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/doctype/5"
+        }
+      }
+    }, {
+      "id" : 1,
+      "code" : "1",
+      "vmpVisible" : 1,
+      "status" : 1,
+      "nameRu" : "Национальный паспорт",
+      "nameKz" : "Ұлттық паспорт",
+      "nameEn" : "National passport",
+      "_links" : {
+        "self" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/doctype/1"
+        },
+        "docType" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/doctype/1"
+        }
+      }
+    }, {
+      "id" : 7,
+      "code" : "8",
+      "vmpVisible" : 1,
+      "status" : 1,
+      "nameRu" : "Паспорт бывшего СССР",
+      "nameKz" : "Бұрынғы КСРО паспорт",
+      "nameEn" : "The formerUSSR passport",
+      "_links" : {
+        "self" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/doctype/7"
+        },
+        "docType" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/doctype/7"
+        }
+      }
+    }, {
+      "id" : 6,
+      "code" : "6",
+      "vmpVisible" : 1,
+      "status" : 1,
+      "nameRu" : "Паспорт (книжка,удостоверение) моряка",
+      "nameKz" : "Теңізшінің (кітапша, куәлік) паспорты",
+      "nameEn" : "Passport  (book, certificate) of sailor",
+      "_links" : {
+        "self" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/doctype/6"
+        },
+        "docType" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/doctype/6"
+        }
+      }
+    }, {
+      "id" : 9,
+      "code" : "16",
+      "vmpVisible" : 1,
+      "status" : 1,
+      "nameRu" : "Свидетельство о рождении",
+      "nameKz" : "Туу туралы куәлік",
+      "nameEn" : "Certificate of Birth",
+      "_links" : {
+        "self" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/doctype/9"
+        },
+        "docType" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/doctype/9"
+        }
+      }
+    }, {
+      "id" : 8,
+      "code" : "14",
+      "vmpVisible" : 1,
+      "status" : 1,
+      "nameRu" : "Свидетельство (удостоверение) на возвращение с страну своего гражданства",
+      "nameKz" : "Өз азаматтығы еліне қайту туралы куәлік (жеке куәлік)",
+      "nameEn" : "The certificate to return to their country of citizenship",
+      "_links" : {
+        "self" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/doctype/8"
+        },
+        "docType" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/doctype/8"
+        }
+      }
+    }, {
+      "id" : 3,
+      "code" : "3",
+      "vmpVisible" : 1,
+      "status" : 1,
+      "nameRu" : "Служебный паспорт",
+      "nameKz" : "Қызметтік паспорт",
+      "nameEn" : "Service passport",
+      "_links" : {
+        "self" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/doctype/3"
+        },
+        "docType" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/doctype/3"
+        }
+      }
+    }, {
+      "id" : 4,
+      "code" : "4",
+      "vmpVisible" : 1,
+      "status" : 1,
+      "nameRu" : "Удостоверение личности",
+      "nameKz" : "Жеке куәлік",
+      "nameEn" : "Pasport (identity card)",
+      "_links" : {
+        "self" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/doctype/4"
+        },
+        "docType" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/doctype/4"
+        }
+      }
+    }, {
+      "id" : 12,
+      "code" : "13",
+      "vmpVisible" : 1,
+      "status" : 1,
+      "nameRu" : "Удостоверение личности лица без гражданства",
+      "nameKz" : "Азаматтығы жоқ тұлғаныѕ жеке куәлігі",
+      "nameEn" : "Identity card of a stateless person",
+      "_links" : {
+        "self" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/doctype/12"
+        },
+        "docType" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/doctype/12"
+        }
+      }
+    } ]
+  },
+  "_links" : {
+    "self" : {
+      "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/doctype"
+    },
+    "profile" : {
+      "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/profile/doctype"
+    },
+    "search" : {
+      "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/doctype/search"
+    }
+  },
+  "page" : {
+    "size" : 1000,
+    "totalElements" : 12,
+    "totalPages" : 1,
+    "number" : 0
+  }
+}

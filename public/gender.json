@@ -1,0 +1,54 @@
+{
+  "_embedded" : {
+    "genders" : [ {
+      "id" : 2,
+      "code" : "2",
+      "vmpVisible" : 1,
+      "status" : 1,
+      "nameRu" : "Женский",
+      "nameKz" : "Әйел",
+      "nameEn" : "Female",
+      "_links" : {
+        "self" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/gender/2"
+        },
+        "gender" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/gender/2"
+        }
+      }
+    }, {
+      "id" : 1,
+      "code" : "1",
+      "vmpVisible" : 1,
+      "status" : 1,
+      "nameRu" : "Мужской",
+      "nameKz" : "Ер",
+      "nameEn" : "Male",
+      "_links" : {
+        "self" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/gender/1"
+        },
+        "gender" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/gender/1"
+        }
+      }
+    } ]
+  },
+  "_links" : {
+    "self" : {
+      "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/gender"
+    },
+    "profile" : {
+      "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/profile/gender"
+    },
+    "search" : {
+      "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/gender/search"
+    }
+  },
+  "page" : {
+    "size" : 1000,
+    "totalElements" : 2,
+    "totalPages" : 1,
+    "number" : 0
+  }
+}

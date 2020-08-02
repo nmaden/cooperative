@@ -1,0 +1,15 @@
+/node_modules
+/public/hot
+/public/storage
+/public/rooms_type_images
+/storage/*.key
+/vendor
+.env
+.env.backup
+.phpunit.result.cache
+Homestead.json
+Homestead.yaml
+npm-debug.log
+yarn-error.log
+.gitlab-ci.yml
+.DS_Store

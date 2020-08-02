@@ -1,0 +1,5083 @@
+{
+  "_embedded" : {
+    "countries" : [ {
+      "id" : 64,
+      "code" : "901",
+      "vmpVisible" : 1,
+      "status" : 1,
+      "nameRu" : "Аруба",
+      "nameKz" : "Аруба",
+      "nameEn" : "Aruba",
+      "maxPeriodRegistration" : 30,
+      "visaRequired" : true,
+      "allowedDaysWithoutRegistration" : 5,
+      "countryCode" : "AW",
+      "_links" : {
+        "self" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/64"
+        },
+        "country" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/64"
+        }
+      }
+    }, {
+      "id" : 149,
+      "code" : "85600",
+      "vmpVisible" : 1,
+      "status" : 1,
+      "nameRu" : "Абхазия",
+      "nameKz" : "Абхазия",
+      "nameEn" : "Abkhazia",
+      "maxPeriodRegistration" : 30,
+      "visaRequired" : true,
+      "allowedDaysWithoutRegistration" : 5,
+      "countryCode" : "AB",
+      "_links" : {
+        "self" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/149"
+        },
+        "country" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/149"
+        }
+      }
+    }, {
+      "id" : 315,
+      "code" : "9100",
+      "vmpVisible" : 1,
+      "status" : 1,
+      "nameRu" : "Иран",
+      "nameKz" : "Иран",
+      "nameEn" : "Iran",
+      "maxPeriodRegistration" : 30,
+      "visaRequired" : true,
+      "allowedDaysWithoutRegistration" : 5,
+      "countryCode" : "IR",
+      "_links" : {
+        "self" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/315"
+        },
+        "country" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/315"
+        }
+      }
+    }, {
+      "id" : 263,
+      "code" : "2000",
+      "vmpVisible" : 1,
+      "status" : 1,
+      "nameRu" : "Бахрейн",
+      "nameKz" : "Бахрейн",
+      "nameEn" : "Bahrain",
+      "maxPeriodRegistration" : 30,
+      "visaRequired" : false,
+      "allowedDaysWithoutRegistration" : 5,
+      "countryCode" : "BH",
+      "_links" : {
+        "self" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/263"
+        },
+        "country" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/263"
+        }
+      }
+    }, {
+      "id" : 1,
+      "code" : "1100",
+      "vmpVisible" : 1,
+      "status" : 1,
+      "nameRu" : "Аргентина",
+      "nameKz" : "Аргентина",
+      "nameEn" : "Argentine",
+      "maxPeriodRegistration" : 30,
+      "visaRequired" : false,
+      "allowedDaysWithoutRegistration" : 5,
+      "countryCode" : "AR",
+      "_links" : {
+        "self" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/1"
+        },
+        "country" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/1"
+        }
+      }
+    }, {
+      "id" : 4,
+      "code" : "200",
+      "vmpVisible" : 1,
+      "status" : 1,
+      "nameRu" : "Австралия",
+      "nameKz" : "Австралия",
+      "nameEn" : "Australia",
+      "maxPeriodRegistration" : 30,
+      "visaRequired" : false,
+      "allowedDaysWithoutRegistration" : 30,
+      "countryCode" : "AU",
+      "_links" : {
+        "self" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/4"
+        },
+        "country" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/4"
+        }
+      }
+    }, {
+      "id" : 3,
+      "code" : "100",
+      "vmpVisible" : 1,
+      "status" : 1,
+      "nameRu" : "Австрия",
+      "nameKz" : "Австрия",
+      "nameEn" : "Austria",
+      "maxPeriodRegistration" : 30,
+      "visaRequired" : false,
+      "allowedDaysWithoutRegistration" : 30,
+      "countryCode" : "AT",
+      "_links" : {
+        "self" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/3"
+        },
+        "country" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/3"
+        }
+      }
+    }, {
+      "id" : 148,
+      "code" : "85700",
+      "vmpVisible" : 1,
+      "status" : 1,
+      "nameRu" : "Аджария",
+      "nameKz" : "Аджария",
+      "nameEn" : "Adjara",
+      "maxPeriodRegistration" : 30,
+      "visaRequired" : true,
+      "allowedDaysWithoutRegistration" : 5,
+      "countryCode" : null,
+      "_links" : {
+        "self" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/148"
+        },
+        "country" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/148"
+        }
+      }
+    }, {
+      "id" : 266,
+      "code" : "300",
+      "vmpVisible" : 1,
+      "status" : 1,
+      "nameRu" : "Албания",
+      "nameKz" : "Албания",
+      "nameEn" : "Albania",
+      "maxPeriodRegistration" : 30,
+      "visaRequired" : true,
+      "allowedDaysWithoutRegistration" : 5,
+      "countryCode" : "AL",
+      "_links" : {
+        "self" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/266"
+        },
+        "country" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/266"
+        }
+      }
+    }, {
+      "id" : 267,
+      "code" : "400",
+      "vmpVisible" : 1,
+      "status" : 1,
+      "nameRu" : "Алжир",
+      "nameKz" : "Алжир",
+      "nameEn" : "Algeria",
+      "maxPeriodRegistration" : 30,
+      "visaRequired" : true,
+      "allowedDaysWithoutRegistration" : 5,
+      "countryCode" : "DZ",
+      "_links" : {
+        "self" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/267"
+        },
+        "country" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/267"
+        }
+      }
+    }, {
+      "id" : 325,
+      "code" : "19850",
+      "vmpVisible" : 1,
+      "status" : 1,
+      "nameRu" : "Ангилья",
+      "nameKz" : "Ангилья",
+      "nameEn" : "Anguilla",
+      "maxPeriodRegistration" : 30,
+      "visaRequired" : true,
+      "allowedDaysWithoutRegistration" : 5,
+      "countryCode" : "AI",
+      "_links" : {
+        "self" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/325"
+        },
+        "country" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/325"
+        }
+      }
+    }, {
+      "id" : 59,
+      "code" : "600",
+      "vmpVisible" : 1,
+      "status" : 1,
+      "nameRu" : "Ангола",
+      "nameKz" : "Ангола",
+      "nameEn" : "Angola",
+      "maxPeriodRegistration" : 30,
+      "visaRequired" : true,
+      "allowedDaysWithoutRegistration" : 5,
+      "countryCode" : "AO",
+      "_links" : {
+        "self" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/59"
+        },
+        "country" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/59"
+        }
+      }
+    }, {
+      "id" : 81,
+      "code" : "700",
+      "vmpVisible" : 1,
+      "status" : 1,
+      "nameRu" : "Андорра",
+      "nameKz" : "Андорра",
+      "nameEn" : "Andorra",
+      "maxPeriodRegistration" : 30,
+      "visaRequired" : true,
+      "allowedDaysWithoutRegistration" : 5,
+      "countryCode" : "AD",
+      "_links" : {
+        "self" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/81"
+        },
+        "country" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/81"
+        }
+      }
+    }, {
+      "id" : 322,
+      "code" : "12",
+      "vmpVisible" : 1,
+      "status" : 1,
+      "nameRu" : "Антарктида",
+      "nameKz" : "Антарктида",
+      "nameEn" : "Antarctica",
+      "maxPeriodRegistration" : 30,
+      "visaRequired" : true,
+      "allowedDaysWithoutRegistration" : 5,
+      "countryCode" : "AQ",
+      "_links" : {
+        "self" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/322"
+        },
+        "country" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/322"
+        }
+      }
+    }, {
+      "id" : 63,
+      "code" : "900",
+      "vmpVisible" : 1,
+      "status" : 1,
+      "nameRu" : "Антильские острова",
+      "nameKz" : "Антиль аралдары",
+      "nameEn" : "Antilles",
+      "maxPeriodRegistration" : 30,
+      "visaRequired" : true,
+      "allowedDaysWithoutRegistration" : 5,
+      "countryCode" : "AN",
+      "_links" : {
+        "self" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/63"
+        },
+        "country" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/63"
+        }
+      }
+    }, {
+      "id" : 70,
+      "code" : "1800",
+      "vmpVisible" : 1,
+      "status" : 1,
+      "nameRu" : "Бангладеш",
+      "nameKz" : "Бангладеш",
+      "nameEn" : "Bangladesh",
+      "maxPeriodRegistration" : 30,
+      "visaRequired" : true,
+      "allowedDaysWithoutRegistration" : 5,
+      "countryCode" : "BD",
+      "_links" : {
+        "self" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/70"
+        },
+        "country" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/70"
+        }
+      }
+    }, {
+      "id" : 71,
+      "code" : "1900",
+      "vmpVisible" : 1,
+      "status" : 1,
+      "nameRu" : "Барбадос",
+      "nameKz" : "Барбадос",
+      "nameEn" : "Barbados",
+      "maxPeriodRegistration" : 30,
+      "visaRequired" : true,
+      "allowedDaysWithoutRegistration" : 5,
+      "countryCode" : "BB",
+      "_links" : {
+        "self" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/71"
+        },
+        "country" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/71"
+        }
+      }
+    }, {
+      "id" : 29,
+      "code" : "6000",
+      "vmpVisible" : 1,
+      "status" : 1,
+      "nameRu" : "Белиз",
+      "nameKz" : "Белиз",
+      "nameEn" : "Belize",
+      "maxPeriodRegistration" : 30,
+      "visaRequired" : true,
+      "allowedDaysWithoutRegistration" : 5,
+      "countryCode" : "BZ",
+      "_links" : {
+        "self" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/29"
+        },
+        "country" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/29"
+        }
+      }
+    }, {
+      "id" : 264,
+      "code" : "2100",
+      "vmpVisible" : 1,
+      "status" : 1,
+      "nameRu" : "Бельгия",
+      "nameKz" : "Бельгия",
+      "nameEn" : "Belgium",
+      "maxPeriodRegistration" : 30,
+      "visaRequired" : false,
+      "allowedDaysWithoutRegistration" : 30,
+      "countryCode" : "BE",
+      "_links" : {
+        "self" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/264"
+        },
+        "country" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/264"
+        }
+      }
+    }, {
+      "id" : 319,
+      "code" : "6800",
+      "vmpVisible" : 1,
+      "status" : 1,
+      "nameRu" : "Бенин",
+      "nameKz" : "Бенин",
+      "nameEn" : "Benin",
+      "maxPeriodRegistration" : 30,
+      "visaRequired" : true,
+      "allowedDaysWithoutRegistration" : 5,
+      "countryCode" : "BJ",
+      "_links" : {
+        "self" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/319"
+        },
+        "country" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/319"
+        }
+      }
+    }, {
+      "id" : 78,
+      "code" : "2300",
+      "vmpVisible" : 1,
+      "status" : 1,
+      "nameRu" : "Бермудские острова",
+      "nameKz" : "Бермуд аралы",
+      "nameEn" : "Bermuda",
+      "maxPeriodRegistration" : 30,
+      "visaRequired" : true,
+      "allowedDaysWithoutRegistration" : 5,
+      "countryCode" : "BM",
+      "_links" : {
+        "self" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/78"
+        },
+        "country" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/78"
+        }
+      }
+    }, {
+      "id" : 50,
+      "code" : "2500",
+      "vmpVisible" : 1,
+      "status" : 1,
+      "nameRu" : "Болгария",
+      "nameKz" : "Болгария",
+      "nameEn" : "Bulgaria",
+      "maxPeriodRegistration" : 30,
+      "visaRequired" : false,
+      "allowedDaysWithoutRegistration" : 30,
+      "countryCode" : "BG",
+      "_links" : {
+        "self" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/50"
+        },
+        "country" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/50"
+        }
+      }
+    }, {
+      "id" : 52,
+      "code" : "2600",
+      "vmpVisible" : 1,
+      "status" : 1,
+      "nameRu" : "Боливия",
+      "nameKz" : "Боливия",
+      "nameEn" : "Bolivia",
+      "maxPeriodRegistration" : 30,
+      "visaRequired" : true,
+      "allowedDaysWithoutRegistration" : 5,
+      "countryCode" : "BO",
+      "_links" : {
+        "self" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/52"
+        },
+        "country" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/52"
+        }
+      }
+    }, {
+      "id" : 53,
+      "code" : "2700",
+      "vmpVisible" : 1,
+      "status" : 1,
+      "nameRu" : "Ботсвана",
+      "nameKz" : "Ботсвана",
+      "nameEn" : "Botswana",
+      "maxPeriodRegistration" : 30,
+      "visaRequired" : true,
+      "allowedDaysWithoutRegistration" : 5,
+      "countryCode" : "BW",
+      "_links" : {
+        "self" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/53"
+        },
+        "country" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/53"
+        }
+      }
+    }, {
+      "id" : 310,
+      "code" : "8800",
+      "vmpVisible" : 1,
+      "status" : 1,
+      "nameRu" : "Индонезия",
+      "nameKz" : "Индонезия",
+      "nameEn" : "Indonesia",
+      "maxPeriodRegistration" : 30,
+      "visaRequired" : false,
+      "allowedDaysWithoutRegistration" : 5,
+      "countryCode" : "ID",
+      "_links" : {
+        "self" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/310"
+        },
+        "country" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/310"
+        }
+      }
+    }, {
+      "id" : 35,
+      "code" : "4000",
+      "vmpVisible" : 1,
+      "status" : 1,
+      "nameRu" : "Вьетнам",
+      "nameKz" : "Вьетнам",
+      "nameEn" : "Vietnam",
+      "maxPeriodRegistration" : 30,
+      "visaRequired" : false,
+      "allowedDaysWithoutRegistration" : 5,
+      "countryCode" : "VN",
+      "_links" : {
+        "self" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/35"
+        },
+        "country" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/35"
+        }
+      }
+    }, {
+      "id" : 87,
+      "code" : "3900",
+      "vmpVisible" : 1,
+      "status" : 1,
+      "nameRu" : "Британские Виргинские острова",
+      "nameKz" : "Британ Виргин аралдары",
+      "nameEn" : "The British Virgin Islands",
+      "maxPeriodRegistration" : 30,
+      "visaRequired" : true,
+      "allowedDaysWithoutRegistration" : 5,
+      "countryCode" : "VG",
+      "_links" : {
+        "self" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/87"
+        },
+        "country" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/87"
+        }
+      }
+    }, {
+      "id" : 55,
+      "code" : "2900",
+      "vmpVisible" : 1,
+      "status" : 1,
+      "nameRu" : "Бруней-Даруссалам",
+      "nameKz" : "Бруней-Даруссалам",
+      "nameEn" : "Brunei Darussalam",
+      "maxPeriodRegistration" : 30,
+      "visaRequired" : true,
+      "allowedDaysWithoutRegistration" : 5,
+      "countryCode" : "BN",
+      "_links" : {
+        "self" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/55"
+        },
+        "country" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/55"
+        }
+      }
+    }, {
+      "id" : 84,
+      "code" : "3400",
+      "vmpVisible" : 1,
+      "status" : 1,
+      "nameRu" : "Ватикан",
+      "nameKz" : "Ватикан",
+      "nameEn" : "Vatican",
+      "maxPeriodRegistration" : 30,
+      "visaRequired" : false,
+      "allowedDaysWithoutRegistration" : 5,
+      "countryCode" : "VA",
+      "_links" : {
+        "self" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/84"
+        },
+        "country" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/84"
+        }
+      }
+    }, {
+      "id" : 56,
+      "code" : "3000",
+      "vmpVisible" : 1,
+      "status" : 1,
+      "nameRu" : "Бурунди",
+      "nameKz" : "Бурунди",
+      "nameEn" : "Burundi",
+      "maxPeriodRegistration" : 30,
+      "visaRequired" : true,
+      "allowedDaysWithoutRegistration" : 5,
+      "countryCode" : "BI",
+      "_links" : {
+        "self" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/56"
+        },
+        "country" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/56"
+        }
+      }
+    }, {
+      "id" : 289,
+      "code" : "16100",
+      "vmpVisible" : 1,
+      "status" : 1,
+      "nameRu" : "Вануату",
+      "nameKz" : "Вануату",
+      "nameEn" : "Vanuatu",
+      "maxPeriodRegistration" : 30,
+      "visaRequired" : true,
+      "allowedDaysWithoutRegistration" : 5,
+      "countryCode" : "VU",
+      "_links" : {
+        "self" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/289"
+        },
+        "country" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/289"
+        }
+      }
+    }, {
+      "id" : 33,
+      "code" : "3500",
+      "vmpVisible" : 1,
+      "status" : 1,
+      "nameRu" : "Венгрия",
+      "nameKz" : "Венгрия",
+      "nameEn" : "Hungary",
+      "maxPeriodRegistration" : 30,
+      "visaRequired" : false,
+      "allowedDaysWithoutRegistration" : 30,
+      "countryCode" : "HU",
+      "_links" : {
+        "self" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/33"
+        },
+        "country" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/33"
+        }
+      }
+    }, {
+      "id" : 85,
+      "code" : "3600",
+      "vmpVisible" : 1,
+      "status" : 1,
+      "nameRu" : "Венесуэла",
+      "nameKz" : "Венесуэла",
+      "nameEn" : "Venezuela",
+      "maxPeriodRegistration" : 30,
+      "visaRequired" : true,
+      "allowedDaysWithoutRegistration" : 5,
+      "countryCode" : "VE",
+      "_links" : {
+        "self" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/85"
+        },
+        "country" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/85"
+        }
+      }
+    }, {
+      "id" : 89,
+      "code" : "4400",
+      "vmpVisible" : 1,
+      "status" : 1,
+      "nameRu" : "Габон",
+      "nameKz" : "Габон",
+      "nameEn" : "Gabon",
+      "maxPeriodRegistration" : 30,
+      "visaRequired" : true,
+      "allowedDaysWithoutRegistration" : 5,
+      "countryCode" : "GA",
+      "_links" : {
+        "self" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/89"
+        },
+        "country" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/89"
+        }
+      }
+    }, {
+      "id" : 38,
+      "code" : "4500",
+      "vmpVisible" : 1,
+      "status" : 1,
+      "nameRu" : "Гаити",
+      "nameKz" : "Гаити",
+      "nameEn" : "Haiti",
+      "maxPeriodRegistration" : 30,
+      "visaRequired" : true,
+      "allowedDaysWithoutRegistration" : 5,
+      "countryCode" : "HT",
+      "_links" : {
+        "self" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/38"
+        },
+        "country" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/38"
+        }
+      }
+    }, {
+      "id" : 39,
+      "code" : "4600",
+      "vmpVisible" : 1,
+      "status" : 1,
+      "nameRu" : "Гайана",
+      "nameKz" : "Гайана",
+      "nameEn" : "Guyana",
+      "maxPeriodRegistration" : 30,
+      "visaRequired" : true,
+      "allowedDaysWithoutRegistration" : 5,
+      "countryCode" : "GY",
+      "_links" : {
+        "self" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/39"
+        },
+        "country" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/39"
+        }
+      }
+    }, {
+      "id" : 40,
+      "code" : "4700",
+      "vmpVisible" : 1,
+      "status" : 1,
+      "nameRu" : "Гамбия",
+      "nameKz" : "Гамбия",
+      "nameEn" : "Gambia",
+      "maxPeriodRegistration" : 30,
+      "visaRequired" : true,
+      "allowedDaysWithoutRegistration" : 5,
+      "countryCode" : "GM",
+      "_links" : {
+        "self" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/40"
+        },
+        "country" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/40"
+        }
+      }
+    }, {
+      "id" : 44,
+      "code" : "4800",
+      "vmpVisible" : 1,
+      "status" : 1,
+      "nameRu" : "Гана",
+      "nameKz" : "Гана",
+      "nameEn" : "Ghana",
+      "maxPeriodRegistration" : 30,
+      "visaRequired" : true,
+      "allowedDaysWithoutRegistration" : 5,
+      "countryCode" : "GH",
+      "_links" : {
+        "self" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/44"
+        },
+        "country" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/44"
+        }
+      }
+    }, {
+      "id" : 76,
+      "code" : "5100",
+      "vmpVisible" : 1,
+      "status" : 1,
+      "nameRu" : "Гвиана",
+      "nameKz" : "Гвиана",
+      "nameEn" : "Guiana",
+      "maxPeriodRegistration" : 30,
+      "visaRequired" : true,
+      "allowedDaysWithoutRegistration" : 5,
+      "countryCode" : null,
+      "_links" : {
+        "self" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/76"
+        },
+        "country" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/76"
+        }
+      }
+    }, {
+      "id" : 77,
+      "code" : "5200",
+      "vmpVisible" : 1,
+      "status" : 1,
+      "nameRu" : "Гвинея",
+      "nameKz" : "Гвинея",
+      "nameEn" : "Guinea",
+      "maxPeriodRegistration" : 30,
+      "visaRequired" : true,
+      "allowedDaysWithoutRegistration" : 5,
+      "countryCode" : "GN",
+      "_links" : {
+        "self" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/77"
+        },
+        "country" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/77"
+        }
+      }
+    }, {
+      "id" : 80,
+      "code" : "5300",
+      "vmpVisible" : 1,
+      "status" : 1,
+      "nameRu" : "Гвинея-Бисау",
+      "nameKz" : "Гвинея-Бисау",
+      "nameEn" : "Guinea-Bissau",
+      "maxPeriodRegistration" : 30,
+      "visaRequired" : true,
+      "allowedDaysWithoutRegistration" : 5,
+      "countryCode" : "GW",
+      "_links" : {
+        "self" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/80"
+        },
+        "country" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/80"
+        }
+      }
+    }, {
+      "id" : 58,
+      "code" : "595",
+      "vmpVisible" : 1,
+      "status" : 1,
+      "nameRu" : "Гернси",
+      "nameKz" : "Гернси",
+      "nameEn" : "Guernsey",
+      "maxPeriodRegistration" : 30,
+      "visaRequired" : true,
+      "allowedDaysWithoutRegistration" : 5,
+      "countryCode" : "GG",
+      "_links" : {
+        "self" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/58"
+        },
+        "country" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/58"
+        }
+      }
+    }, {
+      "id" : 22,
+      "code" : "5600",
+      "vmpVisible" : 1,
+      "status" : 1,
+      "nameRu" : "Гибралтар",
+      "nameKz" : "Гибралтар",
+      "nameEn" : "Gibraltar",
+      "maxPeriodRegistration" : 30,
+      "visaRequired" : true,
+      "allowedDaysWithoutRegistration" : 5,
+      "countryCode" : "GI",
+      "_links" : {
+        "self" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/22"
+        },
+        "country" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/22"
+        }
+      }
+    }, {
+      "id" : 25,
+      "code" : "5900",
+      "vmpVisible" : 1,
+      "status" : 1,
+      "nameRu" : "Гондурас",
+      "nameKz" : "Гондурас",
+      "nameEn" : "Honduras",
+      "maxPeriodRegistration" : 30,
+      "visaRequired" : true,
+      "allowedDaysWithoutRegistration" : 5,
+      "countryCode" : "HN",
+      "_links" : {
+        "self" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/25"
+        },
+        "country" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/25"
+        }
+      }
+    }, {
+      "id" : 30,
+      "code" : "6100",
+      "vmpVisible" : 1,
+      "status" : 1,
+      "nameRu" : "Гонконг = Сянган",
+      "nameKz" : "Гонконг = Сянган",
+      "nameEn" : "Hong Kong",
+      "maxPeriodRegistration" : 14,
+      "visaRequired" : true,
+      "allowedDaysWithoutRegistration" : 14,
+      "countryCode" : "HK",
+      "_links" : {
+        "self" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/30"
+        },
+        "country" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/30"
+        }
+      }
+    }, {
+      "id" : 321,
+      "code" : "6200",
+      "vmpVisible" : 1,
+      "status" : 1,
+      "nameRu" : "Гренада",
+      "nameKz" : "Гренада",
+      "nameEn" : "Grenada",
+      "maxPeriodRegistration" : 30,
+      "visaRequired" : true,
+      "allowedDaysWithoutRegistration" : 5,
+      "countryCode" : "GD",
+      "_links" : {
+        "self" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/321"
+        },
+        "country" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/321"
+        }
+      }
+    }, {
+      "id" : 31,
+      "code" : "6300",
+      "vmpVisible" : 1,
+      "status" : 1,
+      "nameRu" : "Гренландия",
+      "nameKz" : "Гренландия",
+      "nameEn" : "Greenland",
+      "maxPeriodRegistration" : 30,
+      "visaRequired" : true,
+      "allowedDaysWithoutRegistration" : 5,
+      "countryCode" : "GL",
+      "_links" : {
+        "self" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/31"
+        },
+        "country" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/31"
+        }
+      }
+    }, {
+      "id" : 32,
+      "code" : "6400",
+      "vmpVisible" : 1,
+      "status" : 1,
+      "nameRu" : "Греция",
+      "nameKz" : "Греция",
+      "nameEn" : "Greece",
+      "maxPeriodRegistration" : 30,
+      "visaRequired" : false,
+      "allowedDaysWithoutRegistration" : 30,
+      "countryCode" : "GR",
+      "_links" : {
+        "self" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/32"
+        },
+        "country" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/32"
+        }
+      }
+    }, {
+      "id" : 318,
+      "code" : "6500",
+      "vmpVisible" : 1,
+      "status" : 1,
+      "nameRu" : "Гуам",
+      "nameKz" : "Гуам",
+      "nameEn" : "Guam",
+      "maxPeriodRegistration" : 30,
+      "visaRequired" : true,
+      "allowedDaysWithoutRegistration" : 5,
+      "countryCode" : "GU",
+      "_links" : {
+        "self" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/318"
+        },
+        "country" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/318"
+        }
+      }
+    }, {
+      "id" : 320,
+      "code" : "6900",
+      "vmpVisible" : 1,
+      "status" : 1,
+      "nameRu" : "Дания",
+      "nameKz" : "Дания",
+      "nameEn" : "Denmark",
+      "maxPeriodRegistration" : 30,
+      "visaRequired" : false,
+      "allowedDaysWithoutRegistration" : 30,
+      "countryCode" : "DK",
+      "_links" : {
+        "self" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/320"
+        },
+        "country" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/320"
+        }
+      }
+    }, {
+      "id" : 79,
+      "code" : "594",
+      "vmpVisible" : 1,
+      "status" : 1,
+      "nameRu" : "Джерси",
+      "nameKz" : "Джерси",
+      "nameEn" : "Jersey",
+      "maxPeriodRegistration" : 30,
+      "visaRequired" : true,
+      "allowedDaysWithoutRegistration" : 5,
+      "countryCode" : "JE",
+      "_links" : {
+        "self" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/79"
+        },
+        "country" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/79"
+        }
+      }
+    }, {
+      "id" : 60,
+      "code" : "20600",
+      "vmpVisible" : 1,
+      "status" : 1,
+      "nameRu" : "Джибути",
+      "nameKz" : "Джибути",
+      "nameEn" : "Djibouti",
+      "maxPeriodRegistration" : 30,
+      "visaRequired" : true,
+      "allowedDaysWithoutRegistration" : 5,
+      "countryCode" : "DJ",
+      "_links" : {
+        "self" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/60"
+        },
+        "country" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/60"
+        }
+      }
+    }, {
+      "id" : 83,
+      "code" : "7100",
+      "vmpVisible" : 1,
+      "status" : 1,
+      "nameRu" : "Доминика",
+      "nameKz" : "Доминика",
+      "nameEn" : "Dominica",
+      "maxPeriodRegistration" : 30,
+      "visaRequired" : true,
+      "allowedDaysWithoutRegistration" : 5,
+      "countryCode" : "DM",
+      "_links" : {
+        "self" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/83"
+        },
+        "country" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/83"
+        }
+      }
+    }, {
+      "id" : 317,
+      "code" : "7200",
+      "vmpVisible" : 1,
+      "status" : 1,
+      "nameRu" : "Доминиканская республика",
+      "nameKz" : "Доминикан республикасы",
+      "nameEn" : "Dominican Republic",
+      "maxPeriodRegistration" : 30,
+      "visaRequired" : true,
+      "allowedDaysWithoutRegistration" : 5,
+      "countryCode" : "DO",
+      "_links" : {
+        "self" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/317"
+        },
+        "country" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/317"
+        }
+      }
+    }, {
+      "id" : 88,
+      "code" : "7500",
+      "vmpVisible" : 1,
+      "status" : 1,
+      "nameRu" : "Египет",
+      "nameKz" : "Египет",
+      "nameEn" : "Egypt",
+      "maxPeriodRegistration" : 30,
+      "visaRequired" : true,
+      "allowedDaysWithoutRegistration" : 5,
+      "countryCode" : "EG",
+      "_links" : {
+        "self" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/88"
+        },
+        "country" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/88"
+        }
+      }
+    }, {
+      "id" : 159,
+      "code" : "86900",
+      "vmpVisible" : 1,
+      "status" : 1,
+      "nameRu" : "Закавказье",
+      "nameKz" : "Закавказье",
+      "nameEn" : "Transcaucasia",
+      "maxPeriodRegistration" : 30,
+      "visaRequired" : true,
+      "allowedDaysWithoutRegistration" : 5,
+      "countryCode" : null,
+      "_links" : {
+        "self" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/159"
+        },
+        "country" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/159"
+        }
+      }
+    }, {
+      "id" : 302,
+      "code" : "7900",
+      "vmpVisible" : 1,
+      "status" : 1,
+      "nameRu" : "Замбия",
+      "nameKz" : "Замбия",
+      "nameEn" : "Zambia",
+      "maxPeriodRegistration" : 30,
+      "visaRequired" : true,
+      "allowedDaysWithoutRegistration" : 5,
+      "countryCode" : "ZM",
+      "_links" : {
+        "self" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/302"
+        },
+        "country" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/302"
+        }
+      }
+    }, {
+      "id" : 303,
+      "code" : "8000",
+      "vmpVisible" : 1,
+      "status" : 1,
+      "nameRu" : "Западная Сахара",
+      "nameKz" : "Батыс Сахара",
+      "nameEn" : "Western Sahara",
+      "maxPeriodRegistration" : 30,
+      "visaRequired" : true,
+      "allowedDaysWithoutRegistration" : 5,
+      "countryCode" : "EH",
+      "_links" : {
+        "self" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/303"
+        },
+        "country" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/303"
+        }
+      }
+    }, {
+      "id" : 106,
+      "code" : "26100",
+      "vmpVisible" : 1,
+      "status" : 1,
+      "nameRu" : "Зимбабве",
+      "nameKz" : "Зимбабве",
+      "nameEn" : "Zimbabwe",
+      "maxPeriodRegistration" : 30,
+      "visaRequired" : true,
+      "allowedDaysWithoutRegistration" : 5,
+      "countryCode" : "ZW",
+      "_links" : {
+        "self" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/106"
+        },
+        "country" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/106"
+        }
+      }
+    }, {
+      "id" : 308,
+      "code" : "8600",
+      "vmpVisible" : 1,
+      "status" : 1,
+      "nameRu" : "Израиль",
+      "nameKz" : "Израиль",
+      "nameEn" : "Israel",
+      "maxPeriodRegistration" : 30,
+      "visaRequired" : false,
+      "allowedDaysWithoutRegistration" : 30,
+      "countryCode" : "IL",
+      "_links" : {
+        "self" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/308"
+        },
+        "country" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/308"
+        }
+      }
+    }, {
+      "id" : 311,
+      "code" : "8900",
+      "vmpVisible" : 1,
+      "status" : 1,
+      "nameRu" : "Иордания",
+      "nameKz" : "Иордания",
+      "nameEn" : "Jordan",
+      "maxPeriodRegistration" : 30,
+      "visaRequired" : false,
+      "allowedDaysWithoutRegistration" : 30,
+      "countryCode" : "JO",
+      "_links" : {
+        "self" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/311"
+        },
+        "country" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/311"
+        }
+      }
+    }, {
+      "id" : 312,
+      "code" : "9000",
+      "vmpVisible" : 1,
+      "status" : 1,
+      "nameRu" : "Ирак",
+      "nameKz" : "Ирак",
+      "nameEn" : "Iraq",
+      "maxPeriodRegistration" : 30,
+      "visaRequired" : true,
+      "allowedDaysWithoutRegistration" : 5,
+      "countryCode" : "IQ",
+      "_links" : {
+        "self" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/312"
+        },
+        "country" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/312"
+        }
+      }
+    }, {
+      "id" : 20,
+      "code" : "23400",
+      "vmpVisible" : 1,
+      "status" : 1,
+      "nameRu" : "Германия",
+      "nameKz" : "Германия",
+      "nameEn" : "Germany",
+      "maxPeriodRegistration" : 30,
+      "visaRequired" : false,
+      "allowedDaysWithoutRegistration" : 30,
+      "countryCode" : "DE",
+      "_links" : {
+        "self" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/20"
+        },
+        "country" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/20"
+        }
+      }
+    }, {
+      "id" : 57,
+      "code" : "3100",
+      "vmpVisible" : 1,
+      "status" : 1,
+      "nameRu" : "Бутан",
+      "nameKz" : "Бутан",
+      "nameEn" : "Butane",
+      "maxPeriodRegistration" : 30,
+      "visaRequired" : true,
+      "allowedDaysWithoutRegistration" : 5,
+      "countryCode" : "BT",
+      "_links" : {
+        "self" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/57"
+        },
+        "country" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/57"
+        }
+      }
+    }, {
+      "id" : 73,
+      "code" : "4900",
+      "vmpVisible" : 1,
+      "status" : 1,
+      "nameRu" : "Гваделупа",
+      "nameKz" : "Гваделупа",
+      "nameEn" : "Gvadelupe",
+      "maxPeriodRegistration" : 30,
+      "visaRequired" : true,
+      "allowedDaysWithoutRegistration" : 5,
+      "countryCode" : "GP",
+      "_links" : {
+        "self" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/73"
+        },
+        "country" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/73"
+        }
+      }
+    }, {
+      "id" : 75,
+      "code" : "5000",
+      "vmpVisible" : 1,
+      "status" : 1,
+      "nameRu" : "Гватемала",
+      "nameKz" : "Гватемала",
+      "nameEn" : "Gwatemala",
+      "maxPeriodRegistration" : 30,
+      "visaRequired" : true,
+      "allowedDaysWithoutRegistration" : 5,
+      "countryCode" : "GT",
+      "_links" : {
+        "self" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/75"
+        },
+        "country" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/75"
+        }
+      }
+    }, {
+      "id" : 314,
+      "code" : "9200",
+      "vmpVisible" : 1,
+      "status" : 1,
+      "nameRu" : "Ирландия",
+      "nameKz" : "Ирландия",
+      "nameEn" : "Ireland",
+      "maxPeriodRegistration" : 30,
+      "visaRequired" : false,
+      "allowedDaysWithoutRegistration" : 30,
+      "countryCode" : "IE",
+      "_links" : {
+        "self" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/314"
+        },
+        "country" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/314"
+        }
+      }
+    }, {
+      "id" : 286,
+      "code" : "9300",
+      "vmpVisible" : 1,
+      "status" : 1,
+      "nameRu" : "Исландия",
+      "nameKz" : "Исландия",
+      "nameEn" : "Iceland",
+      "maxPeriodRegistration" : 30,
+      "visaRequired" : false,
+      "allowedDaysWithoutRegistration" : 30,
+      "countryCode" : "IS",
+      "_links" : {
+        "self" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/286"
+        },
+        "country" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/286"
+        }
+      }
+    }, {
+      "id" : 292,
+      "code" : "9400",
+      "vmpVisible" : 1,
+      "status" : 1,
+      "nameRu" : "Испания",
+      "nameKz" : "Испания",
+      "nameEn" : "Spain",
+      "maxPeriodRegistration" : 30,
+      "visaRequired" : false,
+      "allowedDaysWithoutRegistration" : 30,
+      "countryCode" : "ES",
+      "_links" : {
+        "self" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/292"
+        },
+        "country" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/292"
+        }
+      }
+    }, {
+      "id" : 293,
+      "code" : "9500",
+      "vmpVisible" : 1,
+      "status" : 1,
+      "nameRu" : "Италия",
+      "nameKz" : "Италия",
+      "nameEn" : "Italy",
+      "maxPeriodRegistration" : 30,
+      "visaRequired" : false,
+      "allowedDaysWithoutRegistration" : 30,
+      "countryCode" : "IT",
+      "_links" : {
+        "self" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/293"
+        },
+        "country" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/293"
+        }
+      }
+    }, {
+      "id" : 297,
+      "code" : "9600",
+      "vmpVisible" : 1,
+      "status" : 1,
+      "nameRu" : "Йемен",
+      "nameKz" : "Йемен",
+      "nameEn" : "Yemen",
+      "maxPeriodRegistration" : 30,
+      "visaRequired" : true,
+      "allowedDaysWithoutRegistration" : 5,
+      "countryCode" : "YE",
+      "_links" : {
+        "self" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/297"
+        },
+        "country" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/297"
+        }
+      }
+    }, {
+      "id" : 301,
+      "code" : "11000",
+      "vmpVisible" : 1,
+      "status" : 1,
+      "nameRu" : "Колумбия",
+      "nameKz" : "Колумбия",
+      "nameEn" : "Colombia",
+      "maxPeriodRegistration" : 30,
+      "visaRequired" : false,
+      "allowedDaysWithoutRegistration" : 5,
+      "countryCode" : "CO",
+      "_links" : {
+        "self" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/301"
+        },
+        "country" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/301"
+        }
+      }
+    }, {
+      "id" : 235,
+      "code" : "11800",
+      "vmpVisible" : 1,
+      "status" : 1,
+      "nameRu" : "Кувейт",
+      "nameKz" : "Кувейт",
+      "nameEn" : "Kuwait",
+      "maxPeriodRegistration" : 30,
+      "visaRequired" : false,
+      "allowedDaysWithoutRegistration" : 5,
+      "countryCode" : "KW",
+      "_links" : {
+        "self" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/235"
+        },
+        "country" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/235"
+        }
+      }
+    }, {
+      "id" : 259,
+      "code" : "10900",
+      "vmpVisible" : 1,
+      "status" : 1,
+      "nameRu" : "КНР",
+      "nameKz" : "ҚХР",
+      "nameEn" : "China",
+      "maxPeriodRegistration" : 30,
+      "visaRequired" : true,
+      "allowedDaysWithoutRegistration" : 5,
+      "countryCode" : "CN",
+      "_links" : {
+        "self" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/259"
+        },
+        "country" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/259"
+        }
+      }
+    }, {
+      "id" : 313,
+      "code" : "10000",
+      "vmpVisible" : 1,
+      "status" : 1,
+      "nameRu" : "Каймановы острова",
+      "nameKz" : "Кайман аралы",
+      "nameEn" : "The Cayman Islands",
+      "maxPeriodRegistration" : 30,
+      "visaRequired" : true,
+      "allowedDaysWithoutRegistration" : 5,
+      "countryCode" : "KY",
+      "_links" : {
+        "self" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/313"
+        },
+        "country" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/313"
+        }
+      }
+    }, {
+      "id" : 168,
+      "code" : "87700",
+      "vmpVisible" : 1,
+      "status" : 1,
+      "nameRu" : "Камбоджа",
+      "nameKz" : "Камбоджа",
+      "nameEn" : "Cambodia",
+      "maxPeriodRegistration" : 30,
+      "visaRequired" : true,
+      "allowedDaysWithoutRegistration" : 5,
+      "countryCode" : "KH",
+      "_links" : {
+        "self" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/168"
+        },
+        "country" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/168"
+        }
+      }
+    }, {
+      "id" : 251,
+      "code" : "10200",
+      "vmpVisible" : 1,
+      "status" : 1,
+      "nameRu" : "Камерун",
+      "nameKz" : "Камерун",
+      "nameEn" : "Cameroon",
+      "maxPeriodRegistration" : 30,
+      "visaRequired" : true,
+      "allowedDaysWithoutRegistration" : 5,
+      "countryCode" : "CM",
+      "_links" : {
+        "self" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/251"
+        },
+        "country" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/251"
+        }
+      }
+    }, {
+      "id" : 252,
+      "code" : "10300",
+      "vmpVisible" : 1,
+      "status" : 1,
+      "nameRu" : "Канада",
+      "nameKz" : "Канада",
+      "nameEn" : "Canada",
+      "maxPeriodRegistration" : 30,
+      "visaRequired" : false,
+      "allowedDaysWithoutRegistration" : 30,
+      "countryCode" : "CA",
+      "_links" : {
+        "self" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/252"
+        },
+        "country" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/252"
+        }
+      }
+    }, {
+      "id" : 253,
+      "code" : "10400",
+      "vmpVisible" : 1,
+      "status" : 1,
+      "nameRu" : "Катар",
+      "nameKz" : "Катар",
+      "nameEn" : "Qatar",
+      "maxPeriodRegistration" : 30,
+      "visaRequired" : false,
+      "allowedDaysWithoutRegistration" : 30,
+      "countryCode" : "QA",
+      "_links" : {
+        "self" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/253"
+        },
+        "country" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/253"
+        }
+      }
+    }, {
+      "id" : 257,
+      "code" : "10700",
+      "vmpVisible" : 1,
+      "status" : 1,
+      "nameRu" : "Кения",
+      "nameKz" : "Кения",
+      "nameEn" : "Kenya",
+      "maxPeriodRegistration" : 30,
+      "visaRequired" : true,
+      "allowedDaysWithoutRegistration" : 5,
+      "countryCode" : "KE",
+      "_links" : {
+        "self" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/257"
+        },
+        "country" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/257"
+        }
+      }
+    }, {
+      "id" : 258,
+      "code" : "10800",
+      "vmpVisible" : 1,
+      "status" : 1,
+      "nameRu" : "Кипр",
+      "nameKz" : "Кипр",
+      "nameEn" : "Cyprus",
+      "maxPeriodRegistration" : 30,
+      "visaRequired" : false,
+      "allowedDaysWithoutRegistration" : 30,
+      "countryCode" : "CY",
+      "_links" : {
+        "self" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/258"
+        },
+        "country" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/258"
+        }
+      }
+    }, {
+      "id" : 23,
+      "code" : "5700",
+      "vmpVisible" : 1,
+      "status" : 1,
+      "nameRu" : "Кирибати",
+      "nameKz" : "Кирибати",
+      "nameEn" : "Kiribati",
+      "maxPeriodRegistration" : 30,
+      "visaRequired" : true,
+      "allowedDaysWithoutRegistration" : 5,
+      "countryCode" : "KI",
+      "_links" : {
+        "self" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/23"
+        },
+        "country" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/23"
+        }
+      }
+    }, {
+      "id" : 283,
+      "code" : "11100",
+      "vmpVisible" : 1,
+      "status" : 1,
+      "nameRu" : "Коморские острова",
+      "nameKz" : "Комор аралдары",
+      "nameEn" : "Comoros",
+      "maxPeriodRegistration" : 30,
+      "visaRequired" : true,
+      "allowedDaysWithoutRegistration" : 5,
+      "countryCode" : "KM",
+      "_links" : {
+        "self" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/283"
+        },
+        "country" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/283"
+        }
+      }
+    }, {
+      "id" : 306,
+      "code" : "11200",
+      "vmpVisible" : 1,
+      "status" : 1,
+      "nameRu" : "Конго республика",
+      "nameKz" : "Конго республикасы",
+      "nameEn" : "Republic of Congo",
+      "maxPeriodRegistration" : 30,
+      "visaRequired" : true,
+      "allowedDaysWithoutRegistration" : 5,
+      "countryCode" : "CG",
+      "_links" : {
+        "self" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/306"
+        },
+        "country" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/306"
+        }
+      }
+    }, {
+      "id" : 104,
+      "code" : "26032",
+      "vmpVisible" : 1,
+      "status" : 1,
+      "nameRu" : "Косово",
+      "nameKz" : "Косово",
+      "nameEn" : "Kosovo",
+      "maxPeriodRegistration" : 30,
+      "visaRequired" : true,
+      "allowedDaysWithoutRegistration" : 5,
+      "countryCode" : "XK",
+      "_links" : {
+        "self" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/104"
+        },
+        "country" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/104"
+        }
+      }
+    }, {
+      "id" : 227,
+      "code" : "11500",
+      "vmpVisible" : 1,
+      "status" : 1,
+      "nameRu" : "Коста-Рика",
+      "nameKz" : "Коста-Рика",
+      "nameEn" : "Costa Rica",
+      "maxPeriodRegistration" : 30,
+      "visaRequired" : true,
+      "allowedDaysWithoutRegistration" : 5,
+      "countryCode" : "CR",
+      "_links" : {
+        "self" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/227"
+        },
+        "country" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/227"
+        }
+      }
+    }, {
+      "id" : 294,
+      "code" : "11700",
+      "vmpVisible" : 1,
+      "status" : 1,
+      "nameRu" : "Куба",
+      "nameKz" : "Куба",
+      "nameEn" : "Cuba",
+      "maxPeriodRegistration" : 30,
+      "visaRequired" : true,
+      "allowedDaysWithoutRegistration" : 5,
+      "countryCode" : "CU",
+      "_links" : {
+        "self" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/294"
+        },
+        "country" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/294"
+        }
+      }
+    }, {
+      "id" : 171,
+      "code" : "88100",
+      "vmpVisible" : 1,
+      "status" : 1,
+      "nameRu" : "Кука острова",
+      "nameKz" : "Кука аралдары",
+      "nameEn" : "Cook Islands",
+      "maxPeriodRegistration" : 30,
+      "visaRequired" : true,
+      "allowedDaysWithoutRegistration" : 5,
+      "countryCode" : "CK",
+      "_links" : {
+        "self" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/171"
+        },
+        "country" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/171"
+        }
+      }
+    }, {
+      "id" : 236,
+      "code" : "12200",
+      "vmpVisible" : 1,
+      "status" : 1,
+      "nameRu" : "Лаос",
+      "nameKz" : "Лаос",
+      "nameEn" : "Laos",
+      "maxPeriodRegistration" : 30,
+      "visaRequired" : true,
+      "allowedDaysWithoutRegistration" : 5,
+      "countryCode" : "LA",
+      "_links" : {
+        "self" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/236"
+        },
+        "country" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/236"
+        }
+      }
+    }, {
+      "id" : 126,
+      "code" : "82100",
+      "vmpVisible" : 1,
+      "status" : 1,
+      "nameRu" : "Латвия",
+      "nameKz" : "Латвия",
+      "nameEn" : "Latvia",
+      "maxPeriodRegistration" : 30,
+      "visaRequired" : false,
+      "allowedDaysWithoutRegistration" : 30,
+      "countryCode" : "LV",
+      "_links" : {
+        "self" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/126"
+        },
+        "country" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/126"
+        }
+      }
+    }, {
+      "id" : 296,
+      "code" : "12300",
+      "vmpVisible" : 1,
+      "status" : 1,
+      "nameRu" : "Лесото",
+      "nameKz" : "Лесото",
+      "nameEn" : "Lesotho",
+      "maxPeriodRegistration" : 30,
+      "visaRequired" : true,
+      "allowedDaysWithoutRegistration" : 5,
+      "countryCode" : "LS",
+      "_links" : {
+        "self" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/296"
+        },
+        "country" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/296"
+        }
+      }
+    }, {
+      "id" : 237,
+      "code" : "12400",
+      "vmpVisible" : 1,
+      "status" : 1,
+      "nameRu" : "Либерия",
+      "nameKz" : "Либерия",
+      "nameEn" : "Liberia",
+      "maxPeriodRegistration" : 30,
+      "visaRequired" : true,
+      "allowedDaysWithoutRegistration" : 5,
+      "countryCode" : "LR",
+      "_links" : {
+        "self" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/237"
+        },
+        "country" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/237"
+        }
+      }
+    }, {
+      "id" : 239,
+      "code" : "12500",
+      "vmpVisible" : 1,
+      "status" : 1,
+      "nameRu" : "Ливан",
+      "nameKz" : "Ливан",
+      "nameEn" : "Lebanon",
+      "maxPeriodRegistration" : 30,
+      "visaRequired" : true,
+      "allowedDaysWithoutRegistration" : 5,
+      "countryCode" : "LB",
+      "_links" : {
+        "self" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/239"
+        },
+        "country" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/239"
+        }
+      }
+    }, {
+      "id" : 240,
+      "code" : "12600",
+      "vmpVisible" : 1,
+      "status" : 1,
+      "nameRu" : "Ливия",
+      "nameKz" : "Ливия",
+      "nameEn" : "Libya",
+      "maxPeriodRegistration" : 30,
+      "visaRequired" : true,
+      "allowedDaysWithoutRegistration" : 5,
+      "countryCode" : "LY",
+      "_links" : {
+        "self" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/240"
+        },
+        "country" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/240"
+        }
+      }
+    }, {
+      "id" : 127,
+      "code" : "82200",
+      "vmpVisible" : 1,
+      "status" : 1,
+      "nameRu" : "Литва",
+      "nameKz" : "Литва",
+      "nameEn" : "Lithuania",
+      "maxPeriodRegistration" : 30,
+      "visaRequired" : false,
+      "allowedDaysWithoutRegistration" : 30,
+      "countryCode" : "LT",
+      "_links" : {
+        "self" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/127"
+        },
+        "country" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/127"
+        }
+      }
+    }, {
+      "id" : 241,
+      "code" : "12700",
+      "vmpVisible" : 1,
+      "status" : 1,
+      "nameRu" : "Лихтенштейн",
+      "nameKz" : "Лихтенштейн",
+      "nameEn" : "Liechtenstein",
+      "maxPeriodRegistration" : 30,
+      "visaRequired" : false,
+      "allowedDaysWithoutRegistration" : 30,
+      "countryCode" : "LI",
+      "_links" : {
+        "self" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/241"
+        },
+        "country" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/241"
+        }
+      }
+    }, {
+      "id" : 242,
+      "code" : "12800",
+      "vmpVisible" : 1,
+      "status" : 1,
+      "nameRu" : "Люксембург",
+      "nameKz" : "Люксембург",
+      "nameEn" : "Luxembourg",
+      "maxPeriodRegistration" : 30,
+      "visaRequired" : false,
+      "allowedDaysWithoutRegistration" : 30,
+      "countryCode" : "LU",
+      "_links" : {
+        "self" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/242"
+        },
+        "country" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/242"
+        }
+      }
+    }, {
+      "id" : 300,
+      "code" : "13100",
+      "vmpVisible" : 1,
+      "status" : 1,
+      "nameRu" : "Маврикий",
+      "nameKz" : "Маврикий",
+      "nameEn" : "Mauritius",
+      "maxPeriodRegistration" : 30,
+      "visaRequired" : true,
+      "allowedDaysWithoutRegistration" : 5,
+      "countryCode" : "MU",
+      "_links" : {
+        "self" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/300"
+        },
+        "country" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/300"
+        }
+      }
+    }, {
+      "id" : 243,
+      "code" : "13200",
+      "vmpVisible" : 1,
+      "status" : 1,
+      "nameRu" : "Мавритания",
+      "nameKz" : "Мавритания",
+      "nameEn" : "Mauritania",
+      "maxPeriodRegistration" : 30,
+      "visaRequired" : true,
+      "allowedDaysWithoutRegistration" : 5,
+      "countryCode" : "MR",
+      "_links" : {
+        "self" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/243"
+        },
+        "country" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/243"
+        }
+      }
+    }, {
+      "id" : 245,
+      "code" : "13400",
+      "vmpVisible" : 1,
+      "status" : 1,
+      "nameRu" : "Мадагаскар",
+      "nameKz" : "Мадагаскар",
+      "nameEn" : "Madagascar",
+      "maxPeriodRegistration" : 30,
+      "visaRequired" : true,
+      "allowedDaysWithoutRegistration" : 5,
+      "countryCode" : "MG",
+      "_links" : {
+        "self" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/245"
+        },
+        "country" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/245"
+        }
+      }
+    }, {
+      "id" : 284,
+      "code" : "11104",
+      "vmpVisible" : 1,
+      "status" : 1,
+      "nameRu" : "Майотта",
+      "nameKz" : "Майотта",
+      "nameEn" : "Mayotte",
+      "maxPeriodRegistration" : 30,
+      "visaRequired" : true,
+      "allowedDaysWithoutRegistration" : 5,
+      "countryCode" : "YT",
+      "_links" : {
+        "self" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/284"
+        },
+        "country" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/284"
+        }
+      }
+    }, {
+      "id" : 65,
+      "code" : "1000",
+      "vmpVisible" : 1,
+      "status" : 1,
+      "nameRu" : "Макао (Аомынь)",
+      "nameKz" : "Макао (Аомынь)",
+      "nameEn" : "Macau",
+      "maxPeriodRegistration" : 30,
+      "visaRequired" : true,
+      "allowedDaysWithoutRegistration" : 5,
+      "countryCode" : "MO",
+      "_links" : {
+        "self" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/65"
+        },
+        "country" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/65"
+        }
+      }
+    }, {
+      "id" : 103,
+      "code" : "26020",
+      "vmpVisible" : 1,
+      "status" : 1,
+      "nameRu" : "Македония",
+      "nameKz" : "Македония ",
+      "nameEn" : "Macedonia",
+      "maxPeriodRegistration" : 30,
+      "visaRequired" : true,
+      "allowedDaysWithoutRegistration" : 5,
+      "countryCode" : "MK",
+      "_links" : {
+        "self" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/103"
+        },
+        "country" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/103"
+        }
+      }
+    }, {
+      "id" : 244,
+      "code" : "13300",
+      "vmpVisible" : 1,
+      "status" : 1,
+      "nameRu" : "Малави",
+      "nameKz" : "Малави",
+      "nameEn" : "Malawi",
+      "maxPeriodRegistration" : 30,
+      "visaRequired" : true,
+      "allowedDaysWithoutRegistration" : 5,
+      "countryCode" : "MW",
+      "_links" : {
+        "self" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/244"
+        },
+        "country" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/244"
+        }
+      }
+    }, {
+      "id" : 246,
+      "code" : "13500",
+      "vmpVisible" : 1,
+      "status" : 1,
+      "nameRu" : "Малайзия",
+      "nameKz" : "Малайзия",
+      "nameEn" : "Malaysia",
+      "maxPeriodRegistration" : 30,
+      "visaRequired" : false,
+      "allowedDaysWithoutRegistration" : 30,
+      "countryCode" : "MY",
+      "_links" : {
+        "self" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/246"
+        },
+        "country" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/246"
+        }
+      }
+    }, {
+      "id" : 247,
+      "code" : "13600",
+      "vmpVisible" : 1,
+      "status" : 1,
+      "nameRu" : "Мали",
+      "nameKz" : "Мали",
+      "nameEn" : "Mali",
+      "maxPeriodRegistration" : 30,
+      "visaRequired" : true,
+      "allowedDaysWithoutRegistration" : 5,
+      "countryCode" : "ML",
+      "_links" : {
+        "self" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/247"
+        },
+        "country" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/247"
+        }
+      }
+    }, {
+      "id" : 248,
+      "code" : "13700",
+      "vmpVisible" : 1,
+      "status" : 1,
+      "nameRu" : "Мальдивская республика",
+      "nameKz" : "Мальдив республикасы",
+      "nameEn" : "Republic of Maldives",
+      "maxPeriodRegistration" : 30,
+      "visaRequired" : true,
+      "allowedDaysWithoutRegistration" : 5,
+      "countryCode" : "MV",
+      "_links" : {
+        "self" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/248"
+        },
+        "country" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/248"
+        }
+      }
+    }, {
+      "id" : 249,
+      "code" : "13800",
+      "vmpVisible" : 1,
+      "status" : 1,
+      "nameRu" : "Мальта",
+      "nameKz" : "Мальта",
+      "nameEn" : "Malta",
+      "maxPeriodRegistration" : 30,
+      "visaRequired" : false,
+      "allowedDaysWithoutRegistration" : 30,
+      "countryCode" : "MT",
+      "_links" : {
+        "self" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/249"
+        },
+        "country" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/249"
+        }
+      }
+    }, {
+      "id" : 145,
+      "code" : "13900",
+      "vmpVisible" : 1,
+      "status" : 1,
+      "nameRu" : "Марокко",
+      "nameKz" : "Марокко",
+      "nameEn" : "Morocco",
+      "maxPeriodRegistration" : 30,
+      "visaRequired" : true,
+      "allowedDaysWithoutRegistration" : 5,
+      "countryCode" : "MA",
+      "_links" : {
+        "self" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/145"
+        },
+        "country" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/145"
+        }
+      }
+    }, {
+      "id" : 256,
+      "code" : "10602",
+      "vmpVisible" : 1,
+      "status" : 1,
+      "nameRu" : "Маршалловы острова",
+      "nameKz" : "Маршал аралдары",
+      "nameEn" : "Marshall Islands",
+      "maxPeriodRegistration" : 30,
+      "visaRequired" : true,
+      "allowedDaysWithoutRegistration" : 5,
+      "countryCode" : "MH",
+      "_links" : {
+        "self" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/256"
+        },
+        "country" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/256"
+        }
+      }
+    }, {
+      "id" : 112,
+      "code" : "18300",
+      "vmpVisible" : 1,
+      "status" : 1,
+      "nameRu" : "Руанда",
+      "nameKz" : "Руанда",
+      "nameEn" : "Rwanda",
+      "maxPeriodRegistration" : 30,
+      "visaRequired" : true,
+      "allowedDaysWithoutRegistration" : 5,
+      "countryCode" : "RW",
+      "_links" : {
+        "self" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/112"
+        },
+        "country" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/112"
+        }
+      }
+    }, {
+      "id" : 282,
+      "code" : "18400",
+      "vmpVisible" : 1,
+      "status" : 1,
+      "nameRu" : "Румыния",
+      "nameKz" : "Румыния",
+      "nameEn" : "Romania",
+      "maxPeriodRegistration" : 30,
+      "visaRequired" : false,
+      "allowedDaysWithoutRegistration" : 30,
+      "countryCode" : "RO",
+      "_links" : {
+        "self" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/282"
+        },
+        "country" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/282"
+        }
+      }
+    }, {
+      "id" : 160,
+      "code" : "14000",
+      "vmpVisible" : 1,
+      "status" : 1,
+      "nameRu" : "Мартиника",
+      "nameKz" : "Мартиника",
+      "nameEn" : "Martinique",
+      "maxPeriodRegistration" : 30,
+      "visaRequired" : true,
+      "allowedDaysWithoutRegistration" : 5,
+      "countryCode" : "MQ",
+      "_links" : {
+        "self" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/160"
+        },
+        "country" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/160"
+        }
+      }
+    }, {
+      "id" : 161,
+      "code" : "14200",
+      "vmpVisible" : 1,
+      "status" : 1,
+      "nameRu" : "Мексика",
+      "nameKz" : "Мексика",
+      "nameEn" : "Mexico",
+      "maxPeriodRegistration" : 30,
+      "visaRequired" : false,
+      "allowedDaysWithoutRegistration" : 30,
+      "countryCode" : "MX",
+      "_links" : {
+        "self" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/161"
+        },
+        "country" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/161"
+        }
+      }
+    }, {
+      "id" : 114,
+      "code" : "27400",
+      "vmpVisible" : 1,
+      "status" : 1,
+      "nameRu" : "Мелилья",
+      "nameKz" : "Мелилья",
+      "nameEn" : "Melilla",
+      "maxPeriodRegistration" : 30,
+      "visaRequired" : true,
+      "allowedDaysWithoutRegistration" : 5,
+      "countryCode" : null,
+      "_links" : {
+        "self" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/114"
+        },
+        "country" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/114"
+        }
+      }
+    }, {
+      "id" : 255,
+      "code" : "10600",
+      "vmpVisible" : 1,
+      "status" : 1,
+      "nameRu" : "Микронезия",
+      "nameKz" : "Микронезия",
+      "nameEn" : "Micronesia",
+      "maxPeriodRegistration" : 30,
+      "visaRequired" : true,
+      "allowedDaysWithoutRegistration" : 5,
+      "countryCode" : "FM",
+      "_links" : {
+        "self" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/255"
+        },
+        "country" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/255"
+        }
+      }
+    }, {
+      "id" : 162,
+      "code" : "14400",
+      "vmpVisible" : 1,
+      "status" : 1,
+      "nameRu" : "Мозамбик",
+      "nameKz" : "Мозамбик",
+      "nameEn" : "Mozambique",
+      "maxPeriodRegistration" : 30,
+      "visaRequired" : true,
+      "allowedDaysWithoutRegistration" : 5,
+      "countryCode" : "MZ",
+      "_links" : {
+        "self" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/162"
+        },
+        "country" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/162"
+        }
+      }
+    }, {
+      "id" : 187,
+      "code" : "14600",
+      "vmpVisible" : 1,
+      "status" : 1,
+      "nameRu" : "Монако",
+      "nameKz" : "Монако",
+      "nameEn" : "Monaco",
+      "maxPeriodRegistration" : 30,
+      "visaRequired" : false,
+      "allowedDaysWithoutRegistration" : 30,
+      "countryCode" : "MC",
+      "_links" : {
+        "self" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/187"
+        },
+        "country" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/187"
+        }
+      }
+    }, {
+      "id" : 188,
+      "code" : "14700",
+      "vmpVisible" : 1,
+      "status" : 1,
+      "nameRu" : "Монтсеррат",
+      "nameKz" : "Монтсеррат",
+      "nameEn" : "Montserrat",
+      "maxPeriodRegistration" : 30,
+      "visaRequired" : true,
+      "allowedDaysWithoutRegistration" : 5,
+      "countryCode" : "MS",
+      "_links" : {
+        "self" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/188"
+        },
+        "country" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/188"
+        }
+      }
+    }, {
+      "id" : 45,
+      "code" : "2400",
+      "vmpVisible" : 1,
+      "status" : 1,
+      "nameRu" : "Мъянма (Бирма)",
+      "nameKz" : "Мъянма (Бирма)",
+      "nameEn" : "Myanma",
+      "maxPeriodRegistration" : 30,
+      "visaRequired" : true,
+      "allowedDaysWithoutRegistration" : 5,
+      "countryCode" : "MM",
+      "_links" : {
+        "self" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/45"
+        },
+        "country" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/45"
+        }
+      }
+    }, {
+      "id" : 189,
+      "code" : "15100",
+      "vmpVisible" : 1,
+      "status" : 1,
+      "nameRu" : "Намибия",
+      "nameKz" : "Намибия",
+      "nameEn" : "Namibia",
+      "maxPeriodRegistration" : 30,
+      "visaRequired" : true,
+      "allowedDaysWithoutRegistration" : 5,
+      "countryCode" : "NA",
+      "_links" : {
+        "self" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/189"
+        },
+        "country" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/189"
+        }
+      }
+    }, {
+      "id" : 190,
+      "code" : "15200",
+      "vmpVisible" : 1,
+      "status" : 1,
+      "nameRu" : "Науру",
+      "nameKz" : "Науру",
+      "nameEn" : "Nauru",
+      "maxPeriodRegistration" : 30,
+      "visaRequired" : true,
+      "allowedDaysWithoutRegistration" : 5,
+      "countryCode" : "NR",
+      "_links" : {
+        "self" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/190"
+        },
+        "country" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/190"
+        }
+      }
+    }, {
+      "id" : 192,
+      "code" : "15400",
+      "vmpVisible" : 1,
+      "status" : 1,
+      "nameRu" : "Непал",
+      "nameKz" : "Непал",
+      "nameEn" : "Nepal",
+      "maxPeriodRegistration" : 30,
+      "visaRequired" : true,
+      "allowedDaysWithoutRegistration" : 5,
+      "countryCode" : "NP",
+      "_links" : {
+        "self" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/192"
+        },
+        "country" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/192"
+        }
+      }
+    }, {
+      "id" : 118,
+      "code" : "15600",
+      "vmpVisible" : 1,
+      "status" : 1,
+      "nameRu" : "Нигер",
+      "nameKz" : "Нигер",
+      "nameEn" : "Niger",
+      "maxPeriodRegistration" : 30,
+      "visaRequired" : true,
+      "allowedDaysWithoutRegistration" : 5,
+      "countryCode" : "NE",
+      "_links" : {
+        "self" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/118"
+        },
+        "country" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/118"
+        }
+      }
+    }, {
+      "id" : 226,
+      "code" : "15500",
+      "vmpVisible" : 1,
+      "status" : 1,
+      "nameRu" : "Нигерия",
+      "nameKz" : "Нигерия",
+      "nameEn" : "Nigeria",
+      "maxPeriodRegistration" : 30,
+      "visaRequired" : true,
+      "allowedDaysWithoutRegistration" : 5,
+      "countryCode" : "NG",
+      "_links" : {
+        "self" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/226"
+        },
+        "country" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/226"
+        }
+      }
+    }, {
+      "id" : 24,
+      "code" : "5800",
+      "vmpVisible" : 1,
+      "status" : 1,
+      "nameRu" : "Нидерланды",
+      "nameKz" : "Нидерланд",
+      "nameEn" : "Netherlands",
+      "maxPeriodRegistration" : 30,
+      "visaRequired" : false,
+      "allowedDaysWithoutRegistration" : 30,
+      "countryCode" : "NL",
+      "_links" : {
+        "self" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/24"
+        },
+        "country" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/24"
+        }
+      }
+    }, {
+      "id" : 287,
+      "code" : "15700",
+      "vmpVisible" : 1,
+      "status" : 1,
+      "nameRu" : "Никарагуа",
+      "nameKz" : "Никарагуа",
+      "nameEn" : "Nicaragua",
+      "maxPeriodRegistration" : 30,
+      "visaRequired" : true,
+      "allowedDaysWithoutRegistration" : 5,
+      "countryCode" : "NI",
+      "_links" : {
+        "self" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/287"
+        },
+        "country" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/287"
+        }
+      }
+    }, {
+      "id" : 191,
+      "code" : "15300",
+      "vmpVisible" : 1,
+      "status" : 1,
+      "nameRu" : "Ниуэ",
+      "nameKz" : "Ниуэ",
+      "nameEn" : "Niue",
+      "maxPeriodRegistration" : 30,
+      "visaRequired" : true,
+      "allowedDaysWithoutRegistration" : 5,
+      "countryCode" : "NU",
+      "_links" : {
+        "self" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/191"
+        },
+        "country" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/191"
+        }
+      }
+    }, {
+      "id" : 120,
+      "code" : "16200",
+      "vmpVisible" : 1,
+      "status" : 1,
+      "nameRu" : "Норвегия",
+      "nameKz" : "Норвегия",
+      "nameEn" : "Norway",
+      "maxPeriodRegistration" : 30,
+      "visaRequired" : false,
+      "allowedDaysWithoutRegistration" : 30,
+      "countryCode" : "NO",
+      "_links" : {
+        "self" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/120"
+        },
+        "country" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/120"
+        }
+      }
+    }, {
+      "id" : 316,
+      "code" : "7000",
+      "vmpVisible" : 1,
+      "status" : 1,
+      "nameRu" : "Объединенные Арабские Эмираты",
+      "nameKz" : "Біріккен Араб Эмираттары",
+      "nameEn" : "The United Arab Emirates",
+      "maxPeriodRegistration" : 30,
+      "visaRequired" : false,
+      "allowedDaysWithoutRegistration" : 30,
+      "countryCode" : "AE",
+      "_links" : {
+        "self" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/316"
+        },
+        "country" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/316"
+        }
+      }
+    }, {
+      "id" : 122,
+      "code" : "16600",
+      "vmpVisible" : 1,
+      "status" : 1,
+      "nameRu" : "Оман",
+      "nameKz" : "Оман",
+      "nameEn" : "Oman",
+      "maxPeriodRegistration" : 30,
+      "visaRequired" : false,
+      "allowedDaysWithoutRegistration" : 30,
+      "countryCode" : "OM",
+      "_links" : {
+        "self" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/122"
+        },
+        "country" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/122"
+        }
+      }
+    }, {
+      "id" : 123,
+      "code" : "16700",
+      "vmpVisible" : 1,
+      "status" : 1,
+      "nameRu" : "Остров Рождества",
+      "nameKz" : "Рождество аралы",
+      "nameEn" : "Christmas Island",
+      "maxPeriodRegistration" : 30,
+      "visaRequired" : true,
+      "allowedDaysWithoutRegistration" : 5,
+      "countryCode" : "CX",
+      "_links" : {
+        "self" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/123"
+        },
+        "country" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/123"
+        }
+      }
+    }, {
+      "id" : 19,
+      "code" : "23100",
+      "vmpVisible" : 1,
+      "status" : 1,
+      "nameRu" : "Остров Уэйк",
+      "nameKz" : "Уэйк аралы",
+      "nameEn" : "Wake Island",
+      "maxPeriodRegistration" : 30,
+      "visaRequired" : true,
+      "allowedDaysWithoutRegistration" : 5,
+      "countryCode" : null,
+      "_links" : {
+        "self" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/19"
+        },
+        "country" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/19"
+        }
+      }
+    }, {
+      "id" : 295,
+      "code" : "11900",
+      "vmpVisible" : 1,
+      "status" : 1,
+      "nameRu" : "Острова Кука",
+      "nameKz" : "Кука аралдары",
+      "nameEn" : "The Cook Islands",
+      "maxPeriodRegistration" : 30,
+      "visaRequired" : true,
+      "allowedDaysWithoutRegistration" : 5,
+      "countryCode" : "CK",
+      "_links" : {
+        "self" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/295"
+        },
+        "country" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/295"
+        }
+      }
+    }, {
+      "id" : 234,
+      "code" : "22900",
+      "vmpVisible" : 1,
+      "status" : 1,
+      "nameRu" : "Острова Уоллис и Футуна",
+      "nameKz" : "Уоллис жєне Футуна аралдары",
+      "nameEn" : "Wallis and Futuna",
+      "maxPeriodRegistration" : 30,
+      "visaRequired" : true,
+      "allowedDaysWithoutRegistration" : 5,
+      "countryCode" : "WF",
+      "_links" : {
+        "self" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/234"
+        },
+        "country" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/234"
+        }
+      }
+    }, {
+      "id" : 323,
+      "code" : "120",
+      "vmpVisible" : 1,
+      "status" : 1,
+      "nameRu" : "Острова Херда и Макдональда",
+      "nameKz" : "Херда и Макдональд аралдары",
+      "nameEn" : "Heard and McDonald Islands",
+      "maxPeriodRegistration" : 30,
+      "visaRequired" : true,
+      "allowedDaysWithoutRegistration" : 5,
+      "countryCode" : null,
+      "_links" : {
+        "self" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/323"
+        },
+        "country" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/323"
+        }
+      }
+    }, {
+      "id" : 115,
+      "code" : "27500",
+      "vmpVisible" : 1,
+      "status" : 1,
+      "nameRu" : "Палестина",
+      "nameKz" : "Палестина",
+      "nameEn" : "Palestine",
+      "maxPeriodRegistration" : 30,
+      "visaRequired" : true,
+      "allowedDaysWithoutRegistration" : 5,
+      "countryCode" : "PS",
+      "_links" : {
+        "self" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/115"
+        },
+        "country" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/115"
+        }
+      }
+    }, {
+      "id" : 124,
+      "code" : "17100",
+      "vmpVisible" : 1,
+      "status" : 1,
+      "nameRu" : "Панама",
+      "nameKz" : "Панама",
+      "nameEn" : "Panama",
+      "maxPeriodRegistration" : 30,
+      "visaRequired" : true,
+      "allowedDaysWithoutRegistration" : 5,
+      "countryCode" : "PA",
+      "_links" : {
+        "self" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/124"
+        },
+        "country" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/124"
+        }
+      }
+    }, {
+      "id" : 134,
+      "code" : "17300",
+      "vmpVisible" : 1,
+      "status" : 1,
+      "nameRu" : "Парагвай",
+      "nameKz" : "Парагвай",
+      "nameEn" : "Paraguay",
+      "maxPeriodRegistration" : 30,
+      "visaRequired" : true,
+      "allowedDaysWithoutRegistration" : 5,
+      "countryCode" : "PY",
+      "_links" : {
+        "self" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/134"
+        },
+        "country" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/134"
+        }
+      }
+    }, {
+      "id" : 141,
+      "code" : "17400",
+      "vmpVisible" : 1,
+      "status" : 1,
+      "nameRu" : "Перу",
+      "nameKz" : "Перу",
+      "nameEn" : "Peru",
+      "maxPeriodRegistration" : 30,
+      "visaRequired" : true,
+      "allowedDaysWithoutRegistration" : 5,
+      "countryCode" : "PE",
+      "_links" : {
+        "self" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/141"
+        },
+        "country" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/141"
+        }
+      }
+    }, {
+      "id" : 261,
+      "code" : "17500",
+      "vmpVisible" : 1,
+      "status" : 1,
+      "nameRu" : "Питкерн",
+      "nameKz" : "Питкерн",
+      "nameEn" : "Pitcairn",
+      "maxPeriodRegistration" : 30,
+      "visaRequired" : true,
+      "allowedDaysWithoutRegistration" : 5,
+      "countryCode" : "PN",
+      "_links" : {
+        "self" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/261"
+        },
+        "country" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/261"
+        }
+      }
+    }, {
+      "id" : 184,
+      "code" : "89500",
+      "vmpVisible" : 1,
+      "status" : 1,
+      "nameRu" : "Полинезия Французская",
+      "nameKz" : "Француз Полинезиясы",
+      "nameEn" : "French Polynesia",
+      "maxPeriodRegistration" : 30,
+      "visaRequired" : true,
+      "allowedDaysWithoutRegistration" : 5,
+      "countryCode" : "PF",
+      "_links" : {
+        "self" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/184"
+        },
+        "country" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/184"
+        }
+      }
+    }, {
+      "id" : 101,
+      "code" : "17700",
+      "vmpVisible" : 1,
+      "status" : 1,
+      "nameRu" : "Польша",
+      "nameKz" : "Польша",
+      "nameEn" : "Poland",
+      "maxPeriodRegistration" : 30,
+      "visaRequired" : false,
+      "allowedDaysWithoutRegistration" : 30,
+      "countryCode" : "PL",
+      "_links" : {
+        "self" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/101"
+        },
+        "country" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/101"
+        }
+      }
+    }, {
+      "id" : 109,
+      "code" : "17800",
+      "vmpVisible" : 1,
+      "status" : 1,
+      "nameRu" : "Португалия",
+      "nameKz" : "Португалия",
+      "nameEn" : "Portugal",
+      "maxPeriodRegistration" : 30,
+      "visaRequired" : false,
+      "allowedDaysWithoutRegistration" : 30,
+      "countryCode" : "PT",
+      "_links" : {
+        "self" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/109"
+        },
+        "country" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/109"
+        }
+      }
+    }, {
+      "id" : 110,
+      "code" : "17900",
+      "vmpVisible" : 1,
+      "status" : 1,
+      "nameRu" : "Пуэрто-Рико",
+      "nameKz" : "Пуэрто-Рико",
+      "nameEn" : "Puerto Rico",
+      "maxPeriodRegistration" : 30,
+      "visaRequired" : true,
+      "allowedDaysWithoutRegistration" : 5,
+      "countryCode" : "PR",
+      "_links" : {
+        "self" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/110"
+        },
+        "country" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/110"
+        }
+      }
+    }, {
+      "id" : 111,
+      "code" : "18200",
+      "vmpVisible" : 1,
+      "status" : 1,
+      "nameRu" : "Реюньон",
+      "nameKz" : "Реюньон",
+      "nameEn" : "Reunion",
+      "maxPeriodRegistration" : 30,
+      "visaRequired" : true,
+      "allowedDaysWithoutRegistration" : 5,
+      "countryCode" : "RE",
+      "_links" : {
+        "self" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/111"
+        },
+        "country" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/111"
+        }
+      }
+    }, {
+      "id" : 117,
+      "code" : "81000",
+      "vmpVisible" : 1,
+      "status" : 1,
+      "nameRu" : "Российская Федерация",
+      "nameKz" : "Ресей Федерациясы",
+      "nameEn" : "The Russian Federation",
+      "maxPeriodRegistration" : 90,
+      "visaRequired" : false,
+      "allowedDaysWithoutRegistration" : 30,
+      "countryCode" : "RU",
+      "_links" : {
+        "self" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/117"
+        },
+        "country" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/117"
+        }
+      }
+    }, {
+      "id" : 121,
+      "code" : "16300",
+      "vmpVisible" : 1,
+      "status" : 1,
+      "nameRu" : "Норфолк",
+      "nameKz" : "Норфолк",
+      "nameEn" : "Norfolk",
+      "maxPeriodRegistration" : 30,
+      "visaRequired" : true,
+      "allowedDaysWithoutRegistration" : 5,
+      "countryCode" : "NF",
+      "_links" : {
+        "self" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/121"
+        },
+        "country" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/121"
+        }
+      }
+    }, {
+      "id" : 201,
+      "code" : "90600",
+      "vmpVisible" : 1,
+      "status" : 1,
+      "nameRu" : "Сербская республика",
+      "nameKz" : "Серб Республикасы",
+      "nameEn" : "Serbian Republic",
+      "maxPeriodRegistration" : 30,
+      "visaRequired" : false,
+      "allowedDaysWithoutRegistration" : 5,
+      "countryCode" : null,
+      "_links" : {
+        "self" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/201"
+        },
+        "country" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/201"
+        }
+      }
+    }, {
+      "id" : 269,
+      "code" : "18700",
+      "vmpVisible" : 1,
+      "status" : 1,
+      "nameRu" : "Сальвадор",
+      "nameKz" : "Сальвадор",
+      "nameEn" : "Salvador",
+      "maxPeriodRegistration" : 30,
+      "visaRequired" : true,
+      "allowedDaysWithoutRegistration" : 5,
+      "countryCode" : "SV",
+      "_links" : {
+        "self" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/269"
+        },
+        "country" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/269"
+        }
+      }
+    }, {
+      "id" : 271,
+      "code" : "18900",
+      "vmpVisible" : 1,
+      "status" : 1,
+      "nameRu" : "Самоа",
+      "nameKz" : "Самоа",
+      "nameEn" : "Samoa",
+      "maxPeriodRegistration" : 30,
+      "visaRequired" : true,
+      "allowedDaysWithoutRegistration" : 5,
+      "countryCode" : "WS",
+      "_links" : {
+        "self" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/271"
+        },
+        "country" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/271"
+        }
+      }
+    }, {
+      "id" : 272,
+      "code" : "19000",
+      "vmpVisible" : 1,
+      "status" : 1,
+      "nameRu" : "Сан-Марино",
+      "nameKz" : "Сан-Марино",
+      "nameEn" : "San Marino",
+      "maxPeriodRegistration" : 30,
+      "visaRequired" : true,
+      "allowedDaysWithoutRegistration" : 5,
+      "countryCode" : "SM",
+      "_links" : {
+        "self" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/272"
+        },
+        "country" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/272"
+        }
+      }
+    }, {
+      "id" : 274,
+      "code" : "19200",
+      "vmpVisible" : 1,
+      "status" : 1,
+      "nameRu" : "Саудовская Аравия",
+      "nameKz" : "Сауд Аравиясы",
+      "nameEn" : "Saudi Arabia",
+      "maxPeriodRegistration" : 30,
+      "visaRequired" : false,
+      "allowedDaysWithoutRegistration" : 30,
+      "countryCode" : "SA",
+      "_links" : {
+        "self" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/274"
+        },
+        "country" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/274"
+        }
+      }
+    }, {
+      "id" : 275,
+      "code" : "19300",
+      "vmpVisible" : 1,
+      "status" : 1,
+      "nameRu" : "Свазиленд",
+      "nameKz" : "Свазиленд",
+      "nameEn" : "Swaziland",
+      "maxPeriodRegistration" : 30,
+      "visaRequired" : true,
+      "allowedDaysWithoutRegistration" : 5,
+      "countryCode" : "SZ",
+      "_links" : {
+        "self" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/275"
+        },
+        "country" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/275"
+        }
+      }
+    }, {
+      "id" : 260,
+      "code" : "19500",
+      "vmpVisible" : 1,
+      "status" : 1,
+      "nameRu" : "Сейшельские острова",
+      "nameKz" : "Сейшель аралдары",
+      "nameEn" : "Seychelles",
+      "maxPeriodRegistration" : 30,
+      "visaRequired" : true,
+      "allowedDaysWithoutRegistration" : 5,
+      "countryCode" : "SC",
+      "_links" : {
+        "self" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/260"
+        },
+        "country" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/260"
+        }
+      }
+    }, {
+      "id" : 74,
+      "code" : "4903",
+      "vmpVisible" : 1,
+      "status" : 1,
+      "nameRu" : "Сен-Бартельми",
+      "nameKz" : "Сен-Бартельми",
+      "nameEn" : "Saint-Barthelemy",
+      "maxPeriodRegistration" : 30,
+      "visaRequired" : true,
+      "allowedDaysWithoutRegistration" : 5,
+      "countryCode" : "MQ",
+      "_links" : {
+        "self" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/74"
+        },
+        "country" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/74"
+        }
+      }
+    }, {
+      "id" : 277,
+      "code" : "19600",
+      "vmpVisible" : 1,
+      "status" : 1,
+      "nameRu" : "Сенегал",
+      "nameKz" : "Сенегал",
+      "nameEn" : "Senegal",
+      "maxPeriodRegistration" : 30,
+      "visaRequired" : true,
+      "allowedDaysWithoutRegistration" : 5,
+      "countryCode" : "SN",
+      "_links" : {
+        "self" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/277"
+        },
+        "country" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/277"
+        }
+      }
+    }, {
+      "id" : 90,
+      "code" : "19900",
+      "vmpVisible" : 1,
+      "status" : 1,
+      "nameRu" : "Сент-Китс и Невис",
+      "nameKz" : "Сент-Китс-Невис",
+      "nameEn" : "St. Kitts and Nevis",
+      "maxPeriodRegistration" : 30,
+      "visaRequired" : true,
+      "allowedDaysWithoutRegistration" : 5,
+      "countryCode" : "KN",
+      "_links" : {
+        "self" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/90"
+        },
+        "country" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/90"
+        }
+      }
+    }, {
+      "id" : 91,
+      "code" : "20000",
+      "vmpVisible" : 1,
+      "status" : 1,
+      "nameRu" : "Сент-Люсия",
+      "nameKz" : "Сент-Люсия",
+      "nameEn" : "St. Lucia",
+      "maxPeriodRegistration" : 30,
+      "visaRequired" : true,
+      "allowedDaysWithoutRegistration" : 5,
+      "countryCode" : "LC",
+      "_links" : {
+        "self" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/91"
+        },
+        "country" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/91"
+        }
+      }
+    }, {
+      "id" : 94,
+      "code" : "20200",
+      "vmpVisible" : 1,
+      "status" : 1,
+      "nameRu" : "Сеута",
+      "nameKz" : "Сеута",
+      "nameEn" : "Ceuta",
+      "maxPeriodRegistration" : 30,
+      "visaRequired" : true,
+      "allowedDaysWithoutRegistration" : 5,
+      "countryCode" : null,
+      "_links" : {
+        "self" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/94"
+        },
+        "country" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/94"
+        }
+      }
+    }, {
+      "id" : 93,
+      "code" : "20100",
+      "vmpVisible" : 1,
+      "status" : 1,
+      "nameRu" : "Сингапур",
+      "nameKz" : "Сингапур",
+      "nameEn" : "Singapore",
+      "maxPeriodRegistration" : 30,
+      "visaRequired" : false,
+      "allowedDaysWithoutRegistration" : 30,
+      "countryCode" : "SG",
+      "_links" : {
+        "self" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/93"
+        },
+        "country" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/93"
+        }
+      }
+    }, {
+      "id" : 95,
+      "code" : "20300",
+      "vmpVisible" : 1,
+      "status" : 1,
+      "nameRu" : "Сирия",
+      "nameKz" : "Сирия",
+      "nameEn" : "Syria",
+      "maxPeriodRegistration" : 30,
+      "visaRequired" : true,
+      "allowedDaysWithoutRegistration" : 5,
+      "countryCode" : "SY",
+      "_links" : {
+        "self" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/95"
+        },
+        "country" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/95"
+        }
+      }
+    }, {
+      "id" : 202,
+      "code" : "90700",
+      "vmpVisible" : 1,
+      "status" : 1,
+      "nameRu" : "Словакия",
+      "nameKz" : "Словакия",
+      "nameEn" : "Slovakia",
+      "maxPeriodRegistration" : 30,
+      "visaRequired" : false,
+      "allowedDaysWithoutRegistration" : 30,
+      "countryCode" : "SK",
+      "_links" : {
+        "self" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/202"
+        },
+        "country" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/202"
+        }
+      }
+    }, {
+      "id" : 203,
+      "code" : "90800",
+      "vmpVisible" : 1,
+      "status" : 1,
+      "nameRu" : "Словения",
+      "nameKz" : "Словения",
+      "nameEn" : "Slovenia",
+      "maxPeriodRegistration" : 30,
+      "visaRequired" : false,
+      "allowedDaysWithoutRegistration" : 30,
+      "countryCode" : "SI",
+      "_links" : {
+        "self" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/203"
+        },
+        "country" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/203"
+        }
+      }
+    }, {
+      "id" : 96,
+      "code" : "20400",
+      "vmpVisible" : 1,
+      "status" : 1,
+      "nameRu" : "Соломоновы острова",
+      "nameKz" : "Соломон аралдары",
+      "nameEn" : "Solomon Islands",
+      "maxPeriodRegistration" : 30,
+      "visaRequired" : true,
+      "allowedDaysWithoutRegistration" : 5,
+      "countryCode" : "SB",
+      "_links" : {
+        "self" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/96"
+        },
+        "country" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/96"
+        }
+      }
+    }, {
+      "id" : 97,
+      "code" : "20500",
+      "vmpVisible" : 1,
+      "status" : 1,
+      "nameRu" : "Сомали",
+      "nameKz" : "Сомали",
+      "nameEn" : "Somalia",
+      "maxPeriodRegistration" : 30,
+      "visaRequired" : true,
+      "allowedDaysWithoutRegistration" : 5,
+      "countryCode" : "SO",
+      "_links" : {
+        "self" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/97"
+        },
+        "country" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/97"
+        }
+      }
+    }, {
+      "id" : 26,
+      "code" : "23600",
+      "vmpVisible" : 1,
+      "status" : 1,
+      "nameRu" : "Филиппины",
+      "nameKz" : "Филиппин",
+      "nameEn" : "Philippines",
+      "maxPeriodRegistration" : 30,
+      "visaRequired" : false,
+      "allowedDaysWithoutRegistration" : 5,
+      "countryCode" : "PH",
+      "_links" : {
+        "self" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/26"
+        },
+        "country" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/26"
+        }
+      }
+    }, {
+      "id" : 61,
+      "code" : "20800",
+      "vmpVisible" : 1,
+      "status" : 1,
+      "nameRu" : "Судан",
+      "nameKz" : "Судан",
+      "nameEn" : "Sudan",
+      "maxPeriodRegistration" : 30,
+      "visaRequired" : true,
+      "allowedDaysWithoutRegistration" : 5,
+      "countryCode" : "SD",
+      "_links" : {
+        "self" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/61"
+        },
+        "country" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/61"
+        }
+      }
+    }, {
+      "id" : 66,
+      "code" : "21000",
+      "vmpVisible" : 1,
+      "status" : 1,
+      "nameRu" : "Суринам",
+      "nameKz" : "Суринам",
+      "nameEn" : "Surinam",
+      "maxPeriodRegistration" : 30,
+      "visaRequired" : true,
+      "allowedDaysWithoutRegistration" : 5,
+      "countryCode" : "SR",
+      "_links" : {
+        "self" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/66"
+        },
+        "country" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/66"
+        }
+      }
+    }, {
+      "id" : 250,
+      "code" : "21200",
+      "vmpVisible" : 1,
+      "status" : 1,
+      "nameRu" : "Сьерра-Леоне",
+      "nameKz" : "Сьерра-Леоне",
+      "nameEn" : "Sierra Leone",
+      "maxPeriodRegistration" : 30,
+      "visaRequired" : true,
+      "allowedDaysWithoutRegistration" : 5,
+      "countryCode" : "SL",
+      "_links" : {
+        "self" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/250"
+        },
+        "country" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/250"
+        }
+      }
+    }, {
+      "id" : 262,
+      "code" : "21500",
+      "vmpVisible" : 1,
+      "status" : 1,
+      "nameRu" : "Таиланд",
+      "nameKz" : "Таиланд",
+      "nameEn" : "Thailand",
+      "maxPeriodRegistration" : 30,
+      "visaRequired" : false,
+      "allowedDaysWithoutRegistration" : 5,
+      "countryCode" : "TH",
+      "_links" : {
+        "self" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/262"
+        },
+        "country" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/262"
+        }
+      }
+    }, {
+      "id" : 36,
+      "code" : "21600",
+      "vmpVisible" : 1,
+      "status" : 1,
+      "nameRu" : "Тайвань",
+      "nameKz" : "Тайвань",
+      "nameEn" : "Taiwan",
+      "maxPeriodRegistration" : 30,
+      "visaRequired" : true,
+      "allowedDaysWithoutRegistration" : 5,
+      "countryCode" : "TW",
+      "_links" : {
+        "self" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/36"
+        },
+        "country" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/36"
+        }
+      }
+    }, {
+      "id" : 37,
+      "code" : "21700",
+      "vmpVisible" : 1,
+      "status" : 1,
+      "nameRu" : "Танзания",
+      "nameKz" : "Танзания",
+      "nameEn" : "Tanzania",
+      "maxPeriodRegistration" : 30,
+      "visaRequired" : true,
+      "allowedDaysWithoutRegistration" : 5,
+      "countryCode" : "TZ",
+      "_links" : {
+        "self" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/37"
+        },
+        "country" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/37"
+        }
+      }
+    }, {
+      "id" : 42,
+      "code" : "21900",
+      "vmpVisible" : 1,
+      "status" : 1,
+      "nameRu" : "Теркс и Кайкос",
+      "nameKz" : "Теркс жєне Кайкос",
+      "nameEn" : "Turks and Caicos",
+      "maxPeriodRegistration" : 30,
+      "visaRequired" : true,
+      "allowedDaysWithoutRegistration" : 5,
+      "countryCode" : "TC",
+      "_links" : {
+        "self" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/42"
+        },
+        "country" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/42"
+        }
+      }
+    }, {
+      "id" : 132,
+      "code" : "83300",
+      "vmpVisible" : 1,
+      "status" : 1,
+      "nameRu" : "Украина",
+      "nameKz" : "Украина",
+      "nameEn" : "Ukraine",
+      "maxPeriodRegistration" : 30,
+      "visaRequired" : false,
+      "allowedDaysWithoutRegistration" : 90,
+      "countryCode" : "UA",
+      "_links" : {
+        "self" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/132"
+        },
+        "country" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/132"
+        }
+      }
+    }, {
+      "id" : 46,
+      "code" : "22100",
+      "vmpVisible" : 1,
+      "status" : 1,
+      "nameRu" : "Того",
+      "nameKz" : "Того",
+      "nameEn" : "Togo",
+      "maxPeriodRegistration" : 30,
+      "visaRequired" : true,
+      "allowedDaysWithoutRegistration" : 5,
+      "countryCode" : "TG",
+      "_links" : {
+        "self" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/46"
+        },
+        "country" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/46"
+        }
+      }
+    }, {
+      "id" : 47,
+      "code" : "22200",
+      "vmpVisible" : 1,
+      "status" : 1,
+      "nameRu" : "Токелау (Юнион)",
+      "nameKz" : "Токелау (Юнион)",
+      "nameEn" : "Tokelau",
+      "maxPeriodRegistration" : 30,
+      "visaRequired" : true,
+      "allowedDaysWithoutRegistration" : 5,
+      "countryCode" : "TK",
+      "_links" : {
+        "self" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/47"
+        },
+        "country" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/47"
+        }
+      }
+    }, {
+      "id" : 48,
+      "code" : "22300",
+      "vmpVisible" : 1,
+      "status" : 1,
+      "nameRu" : "Тонга",
+      "nameKz" : "Тонга",
+      "nameEn" : "Tonga",
+      "maxPeriodRegistration" : 30,
+      "visaRequired" : true,
+      "allowedDaysWithoutRegistration" : 5,
+      "countryCode" : "TO",
+      "_links" : {
+        "self" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/48"
+        },
+        "country" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/48"
+        }
+      }
+    }, {
+      "id" : 15,
+      "code" : "29900",
+      "vmpVisible" : 1,
+      "status" : 1,
+      "nameRu" : "Тувалу",
+      "nameKz" : "Тувалу",
+      "nameEn" : "Tuvalu",
+      "maxPeriodRegistration" : 30,
+      "visaRequired" : true,
+      "allowedDaysWithoutRegistration" : 5,
+      "countryCode" : "TV",
+      "_links" : {
+        "self" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/15"
+        },
+        "country" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/15"
+        }
+      }
+    }, {
+      "id" : 49,
+      "code" : "22400",
+      "vmpVisible" : 1,
+      "status" : 1,
+      "nameRu" : "Тунис",
+      "nameKz" : "Тунис",
+      "nameEn" : "Tunisia",
+      "maxPeriodRegistration" : 30,
+      "visaRequired" : true,
+      "allowedDaysWithoutRegistration" : 5,
+      "countryCode" : "TN",
+      "_links" : {
+        "self" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/49"
+        },
+        "country" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/49"
+        }
+      }
+    }, {
+      "id" : 12,
+      "code" : "22800",
+      "vmpVisible" : 1,
+      "status" : 1,
+      "nameRu" : "Уганда",
+      "nameKz" : "Уганда",
+      "nameEn" : "Uganda",
+      "maxPeriodRegistration" : 30,
+      "visaRequired" : true,
+      "allowedDaysWithoutRegistration" : 5,
+      "countryCode" : "UG",
+      "_links" : {
+        "self" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/12"
+        },
+        "country" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/12"
+        }
+      }
+    }, {
+      "id" : 220,
+      "code" : "92700",
+      "vmpVisible" : 1,
+      "status" : 1,
+      "nameRu" : "Уоллис и Футуна острова",
+      "nameKz" : "Уоллис пен Футуна аралдары",
+      "nameEn" : "Wallis and Futuna Islands",
+      "maxPeriodRegistration" : 30,
+      "visaRequired" : true,
+      "allowedDaysWithoutRegistration" : 5,
+      "countryCode" : "WF",
+      "_links" : {
+        "self" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/220"
+        },
+        "country" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/220"
+        }
+      }
+    }, {
+      "id" : 18,
+      "code" : "23000",
+      "vmpVisible" : 1,
+      "status" : 1,
+      "nameRu" : "Уругвай",
+      "nameKz" : "Уругвай",
+      "nameEn" : "Uruguay",
+      "maxPeriodRegistration" : 30,
+      "visaRequired" : true,
+      "allowedDaysWithoutRegistration" : 5,
+      "countryCode" : "UY",
+      "_links" : {
+        "self" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/18"
+        },
+        "country" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/18"
+        }
+      }
+    }, {
+      "id" : 221,
+      "code" : "92800",
+      "vmpVisible" : 1,
+      "status" : 1,
+      "nameRu" : "Уэйк остров",
+      "nameKz" : "Уэйк аралы",
+      "nameEn" : "Wake island",
+      "maxPeriodRegistration" : 30,
+      "visaRequired" : true,
+      "allowedDaysWithoutRegistration" : 5,
+      "countryCode" : null,
+      "_links" : {
+        "self" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/221"
+        },
+        "country" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/221"
+        }
+      }
+    }, {
+      "id" : 82,
+      "code" : "6915",
+      "vmpVisible" : 1,
+      "status" : 1,
+      "nameRu" : "Фарерские острова",
+      "nameKz" : "Фарерские острова",
+      "nameEn" : "Faroe Islands",
+      "maxPeriodRegistration" : 30,
+      "visaRequired" : true,
+      "allowedDaysWithoutRegistration" : 5,
+      "countryCode" : "FO",
+      "_links" : {
+        "self" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/82"
+        },
+        "country" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/82"
+        }
+      }
+    }, {
+      "id" : 21,
+      "code" : "23500",
+      "vmpVisible" : 1,
+      "status" : 1,
+      "nameRu" : "Фиджи",
+      "nameKz" : "Фиджи",
+      "nameEn" : "Fiji",
+      "maxPeriodRegistration" : 30,
+      "visaRequired" : true,
+      "allowedDaysWithoutRegistration" : 5,
+      "countryCode" : "FJ",
+      "_links" : {
+        "self" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/21"
+        },
+        "country" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/21"
+        }
+      }
+    }, {
+      "id" : 27,
+      "code" : "23700",
+      "vmpVisible" : 1,
+      "status" : 1,
+      "nameRu" : "Финляндия",
+      "nameKz" : "Финляндия",
+      "nameEn" : "Finland",
+      "maxPeriodRegistration" : 30,
+      "visaRequired" : false,
+      "allowedDaysWithoutRegistration" : 30,
+      "countryCode" : "FI",
+      "_links" : {
+        "self" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/27"
+        },
+        "country" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/27"
+        }
+      }
+    }, {
+      "id" : 238,
+      "code" : "23800",
+      "vmpVisible" : 1,
+      "status" : 1,
+      "nameRu" : "Фолклендские (Мальвинские) острова",
+      "nameKz" : "Фолкленд (Мальвин) аралдары",
+      "nameEn" : "Falkland Islands (Malvinas)",
+      "maxPeriodRegistration" : 30,
+      "visaRequired" : true,
+      "allowedDaysWithoutRegistration" : 5,
+      "countryCode" : "FK",
+      "_links" : {
+        "self" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/238"
+        },
+        "country" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/238"
+        }
+      }
+    }, {
+      "id" : 28,
+      "code" : "23900",
+      "vmpVisible" : 1,
+      "status" : 1,
+      "nameRu" : "Франция",
+      "nameKz" : "Франция",
+      "nameEn" : "France",
+      "maxPeriodRegistration" : 30,
+      "visaRequired" : false,
+      "allowedDaysWithoutRegistration" : 30,
+      "countryCode" : "FR",
+      "_links" : {
+        "self" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/28"
+        },
+        "country" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/28"
+        }
+      }
+    }, {
+      "id" : 100,
+      "code" : "17600",
+      "vmpVisible" : 1,
+      "status" : 1,
+      "nameRu" : "Французская Полинезия",
+      "nameKz" : "Француз Полинезиясы",
+      "nameEn" : "French Polynesia",
+      "maxPeriodRegistration" : 30,
+      "visaRequired" : true,
+      "allowedDaysWithoutRegistration" : 5,
+      "countryCode" : "PF",
+      "_links" : {
+        "self" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/100"
+        },
+        "country" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/100"
+        }
+      }
+    }, {
+      "id" : 225,
+      "code" : "93200",
+      "vmpVisible" : 1,
+      "status" : 1,
+      "nameRu" : "Хорватия",
+      "nameKz" : "Хорватия",
+      "nameEn" : "Croatia",
+      "maxPeriodRegistration" : 30,
+      "visaRequired" : false,
+      "allowedDaysWithoutRegistration" : 30,
+      "countryCode" : "HR",
+      "_links" : {
+        "self" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/225"
+        },
+        "country" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/225"
+        }
+      }
+    }, {
+      "id" : 7,
+      "code" : "24600",
+      "vmpVisible" : 1,
+      "status" : 1,
+      "nameRu" : "Чад",
+      "nameKz" : "Чад",
+      "nameEn" : "Chad",
+      "maxPeriodRegistration" : 30,
+      "visaRequired" : true,
+      "allowedDaysWithoutRegistration" : 5,
+      "countryCode" : "TD",
+      "_links" : {
+        "self" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/7"
+        },
+        "country" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/7"
+        }
+      }
+    }, {
+      "id" : 105,
+      "code" : "26060",
+      "vmpVisible" : 1,
+      "status" : 1,
+      "nameRu" : "Черногория (Монтенегро)",
+      "nameKz" : "Черногория (Монтенегро)",
+      "nameEn" : "Montenegro ",
+      "maxPeriodRegistration" : 30,
+      "visaRequired" : true,
+      "allowedDaysWithoutRegistration" : 5,
+      "countryCode" : "ME",
+      "_links" : {
+        "self" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/105"
+        },
+        "country" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/105"
+        }
+      }
+    }, {
+      "id" : 233,
+      "code" : "25100",
+      "vmpVisible" : 1,
+      "status" : 1,
+      "nameRu" : "Швейцария",
+      "nameKz" : "Швейцария",
+      "nameEn" : "Switzerland",
+      "maxPeriodRegistration" : 30,
+      "visaRequired" : false,
+      "allowedDaysWithoutRegistration" : 30,
+      "countryCode" : "CH",
+      "_links" : {
+        "self" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/233"
+        },
+        "country" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/233"
+        }
+      }
+    }, {
+      "id" : 92,
+      "code" : "25200",
+      "vmpVisible" : 1,
+      "status" : 1,
+      "nameRu" : "Швеция",
+      "nameKz" : "Швеция",
+      "nameEn" : "Sweden",
+      "maxPeriodRegistration" : 30,
+      "visaRequired" : false,
+      "allowedDaysWithoutRegistration" : 30,
+      "countryCode" : "SE",
+      "_links" : {
+        "self" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/92"
+        },
+        "country" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/92"
+        }
+      }
+    }, {
+      "id" : 2,
+      "code" : "24200",
+      "vmpVisible" : 1,
+      "status" : 1,
+      "nameRu" : "Шри-Ланка",
+      "nameKz" : "Шри-Ланка",
+      "nameEn" : "Sri Lanka",
+      "maxPeriodRegistration" : 30,
+      "visaRequired" : true,
+      "allowedDaysWithoutRegistration" : 5,
+      "countryCode" : "LK",
+      "_links" : {
+        "self" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/2"
+        },
+        "country" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/2"
+        }
+      }
+    }, {
+      "id" : 98,
+      "code" : "25500",
+      "vmpVisible" : 1,
+      "status" : 1,
+      "nameRu" : "Эквадор",
+      "nameKz" : "Эквадор",
+      "nameEn" : "Ecuador",
+      "maxPeriodRegistration" : 30,
+      "visaRequired" : true,
+      "allowedDaysWithoutRegistration" : 5,
+      "countryCode" : "EC",
+      "_links" : {
+        "self" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/98"
+        },
+        "country" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/98"
+        }
+      }
+    }, {
+      "id" : 5,
+      "code" : "25614",
+      "vmpVisible" : 1,
+      "status" : 1,
+      "nameRu" : "Эритрея",
+      "nameKz" : "Эритрея",
+      "nameEn" : "Eritrea",
+      "maxPeriodRegistration" : 30,
+      "visaRequired" : true,
+      "allowedDaysWithoutRegistration" : 5,
+      "countryCode" : "ER",
+      "_links" : {
+        "self" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/5"
+        },
+        "country" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/5"
+        }
+      }
+    }, {
+      "id" : 128,
+      "code" : "82300",
+      "vmpVisible" : 1,
+      "status" : 1,
+      "nameRu" : "Эстония",
+      "nameKz" : "Эстония",
+      "nameEn" : "Estonia",
+      "maxPeriodRegistration" : 30,
+      "visaRequired" : false,
+      "allowedDaysWithoutRegistration" : 30,
+      "countryCode" : "EE",
+      "_links" : {
+        "self" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/128"
+        },
+        "country" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/128"
+        }
+      }
+    }, {
+      "id" : 99,
+      "code" : "25600",
+      "vmpVisible" : 1,
+      "status" : 1,
+      "nameRu" : "Эфиопия",
+      "nameKz" : "Эфиопия",
+      "nameEn" : "Ethiopia",
+      "maxPeriodRegistration" : 30,
+      "visaRequired" : true,
+      "allowedDaysWithoutRegistration" : 5,
+      "countryCode" : "ET",
+      "_links" : {
+        "self" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/99"
+        },
+        "country" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/99"
+        }
+      }
+    }, {
+      "id" : 102,
+      "code" : "26000",
+      "vmpVisible" : 1,
+      "status" : 1,
+      "nameRu" : "Югославия",
+      "nameKz" : "Югославия",
+      "nameEn" : "Yugoslavia",
+      "maxPeriodRegistration" : 30,
+      "visaRequired" : true,
+      "allowedDaysWithoutRegistration" : 5,
+      "countryCode" : null,
+      "_links" : {
+        "self" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/102"
+        },
+        "country" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/102"
+        }
+      }
+    }, {
+      "id" : 10,
+      "code" : "26500",
+      "vmpVisible" : 1,
+      "status" : 1,
+      "nameRu" : "Ямайка",
+      "nameKz" : "Ямайка",
+      "nameEn" : "Jamaica",
+      "maxPeriodRegistration" : 30,
+      "visaRequired" : true,
+      "allowedDaysWithoutRegistration" : 5,
+      "countryCode" : "JM",
+      "_links" : {
+        "self" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/10"
+        },
+        "country" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/10"
+        }
+      }
+    }, {
+      "id" : 108,
+      "code" : "26600",
+      "vmpVisible" : 1,
+      "status" : 1,
+      "nameRu" : "Япония",
+      "nameKz" : "Жапония",
+      "nameEn" : "Japan",
+      "maxPeriodRegistration" : 30,
+      "visaRequired" : false,
+      "allowedDaysWithoutRegistration" : 30,
+      "countryCode" : "JP",
+      "_links" : {
+        "self" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/108"
+        },
+        "country" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/108"
+        }
+      }
+    }, {
+      "id" : 6,
+      "code" : "24300",
+      "vmpVisible" : 1,
+      "status" : 1,
+      "nameRu" : "Центральноафриканская республика",
+      "nameKz" : "Орталық Африка республикасы",
+      "nameEn" : "The Central African Republic",
+      "maxPeriodRegistration" : 30,
+      "visaRequired" : true,
+      "allowedDaysWithoutRegistration" : 5,
+      "countryCode" : "CF",
+      "_links" : {
+        "self" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/6"
+        },
+        "country" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/6"
+        }
+      }
+    }, {
+      "id" : 9,
+      "code" : "26010",
+      "vmpVisible" : 1,
+      "status" : 1,
+      "nameRu" : "Босния и Герцеговина",
+      "nameKz" : "Босния және Герцеговина республикасы ЮСФР",
+      "nameEn" : "Bosnia and Herzegovina",
+      "maxPeriodRegistration" : 30,
+      "visaRequired" : true,
+      "allowedDaysWithoutRegistration" : 5,
+      "countryCode" : "BA",
+      "_links" : {
+        "self" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/9"
+        },
+        "country" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/9"
+        }
+      }
+    }, {
+      "id" : 13,
+      "code" : "26900",
+      "vmpVisible" : 1,
+      "status" : 1,
+      "nameRu" : "Британская территория в Индийском океане",
+      "nameKz" : "Үнді мұхитындағы Британ аумағы",
+      "nameEn" : "British Indian Ocean Territory",
+      "maxPeriodRegistration" : 30,
+      "visaRequired" : true,
+      "allowedDaysWithoutRegistration" : 5,
+      "countryCode" : "IO",
+      "_links" : {
+        "self" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/13"
+        },
+        "country" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/13"
+        }
+      }
+    }, {
+      "id" : 41,
+      "code" : "21800",
+      "vmpVisible" : 1,
+      "status" : 1,
+      "nameRu" : "Тимор-Лесте",
+      "nameKz" : "Тимор-Лесте",
+      "nameEn" : "Timor-Leste",
+      "maxPeriodRegistration" : 30,
+      "visaRequired" : true,
+      "allowedDaysWithoutRegistration" : 5,
+      "countryCode" : "TL",
+      "_links" : {
+        "self" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/41"
+        },
+        "country" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/41"
+        }
+      }
+    }, {
+      "id" : 16,
+      "code" : "5400",
+      "vmpVisible" : 1,
+      "status" : 1,
+      "nameRu" : "Экваториальная Гвинея",
+      "nameKz" : "Экваториалық Гвинея",
+      "nameEn" : "Equatorial Guinea",
+      "maxPeriodRegistration" : 30,
+      "visaRequired" : true,
+      "allowedDaysWithoutRegistration" : 5,
+      "countryCode" : "GQ",
+      "_links" : {
+        "self" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/16"
+        },
+        "country" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/16"
+        }
+      }
+    }, {
+      "id" : 43,
+      "code" : "22000",
+      "vmpVisible" : 1,
+      "status" : 1,
+      "nameRu" : "Тринидад и Тобаго",
+      "nameKz" : "Тринидад және Тобаго",
+      "nameEn" : "Trinidad and Tobago",
+      "maxPeriodRegistration" : 30,
+      "visaRequired" : true,
+      "allowedDaysWithoutRegistration" : 5,
+      "countryCode" : "TT",
+      "_links" : {
+        "self" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/43"
+        },
+        "country" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/43"
+        }
+      }
+    }, {
+      "id" : 62,
+      "code" : "800",
+      "vmpVisible" : 1,
+      "status" : 1,
+      "nameRu" : "Антигуа и Барбуда",
+      "nameKz" : "Антигуа және Барбуда",
+      "nameEn" : "Antigua and Barbuda",
+      "maxPeriodRegistration" : 30,
+      "visaRequired" : true,
+      "allowedDaysWithoutRegistration" : 5,
+      "countryCode" : "AG",
+      "_links" : {
+        "self" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/62"
+        },
+        "country" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/62"
+        }
+      }
+    }, {
+      "id" : 67,
+      "code" : "21100",
+      "vmpVisible" : 1,
+      "status" : 1,
+      "nameRu" : "США",
+      "nameKz" : "АҚШ",
+      "nameEn" : "USA",
+      "maxPeriodRegistration" : 30,
+      "visaRequired" : false,
+      "allowedDaysWithoutRegistration" : 30,
+      "countryCode" : "US",
+      "_links" : {
+        "self" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/67"
+        },
+        "country" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/67"
+        }
+      }
+    }, {
+      "id" : 68,
+      "code" : "1200",
+      "vmpVisible" : 1,
+      "status" : 1,
+      "nameRu" : "Афганистан",
+      "nameKz" : "Ауғаныстан",
+      "nameEn" : "Afganistan",
+      "maxPeriodRegistration" : 30,
+      "visaRequired" : true,
+      "allowedDaysWithoutRegistration" : 5,
+      "countryCode" : "AF",
+      "_links" : {
+        "self" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/68"
+        },
+        "country" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/68"
+        }
+      }
+    }, {
+      "id" : 69,
+      "code" : "1700",
+      "vmpVisible" : 1,
+      "status" : 1,
+      "nameRu" : "Багамские острова",
+      "nameKz" : "Бағам аралы",
+      "nameEn" : "Bagam islands",
+      "maxPeriodRegistration" : 30,
+      "visaRequired" : true,
+      "allowedDaysWithoutRegistration" : 5,
+      "countryCode" : "BS",
+      "_links" : {
+        "self" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/69"
+        },
+        "country" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/69"
+        }
+      }
+    }, {
+      "id" : 86,
+      "code" : "3800",
+      "vmpVisible" : 1,
+      "status" : 1,
+      "nameRu" : "Виргинские острова (США)",
+      "nameKz" : "Виргин аралы (АҚШ)",
+      "nameEn" : "Virgin Islands (U.S.A)",
+      "maxPeriodRegistration" : 30,
+      "visaRequired" : true,
+      "allowedDaysWithoutRegistration" : 5,
+      "countryCode" : "VI",
+      "_links" : {
+        "self" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/86"
+        },
+        "country" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/86"
+        }
+      }
+    }, {
+      "id" : 133,
+      "code" : "17200",
+      "vmpVisible" : 1,
+      "status" : 1,
+      "nameRu" : "Папуа-Новая Гвинея",
+      "nameKz" : "Папуа-Жаңа Гвинея",
+      "nameEn" : "Papua New Guinea",
+      "maxPeriodRegistration" : 30,
+      "visaRequired" : true,
+      "allowedDaysWithoutRegistration" : 5,
+      "countryCode" : "PG",
+      "_links" : {
+        "self" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/133"
+        },
+        "country" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/133"
+        }
+      }
+    }, {
+      "id" : 140,
+      "code" : "85100",
+      "vmpVisible" : 1,
+      "status" : 1,
+      "nameRu" : "Казахстан",
+      "nameKz" : "Қазақстан",
+      "nameEn" : "Kazakhstan",
+      "maxPeriodRegistration" : 30,
+      "visaRequired" : true,
+      "allowedDaysWithoutRegistration" : 5,
+      "countryCode" : "KZ",
+      "_links" : {
+        "self" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/140"
+        },
+        "country" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/140"
+        }
+      }
+    }, {
+      "id" : 119,
+      "code" : "16000",
+      "vmpVisible" : 1,
+      "status" : 1,
+      "nameRu" : "Новая Каледония",
+      "nameKz" : "Жаңа Каледония",
+      "nameEn" : "New Caledonia",
+      "maxPeriodRegistration" : 30,
+      "visaRequired" : true,
+      "allowedDaysWithoutRegistration" : 5,
+      "countryCode" : "NC",
+      "_links" : {
+        "self" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/119"
+        },
+        "country" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/119"
+        }
+      }
+    }, {
+      "id" : 107,
+      "code" : "26200",
+      "vmpVisible" : 1,
+      "status" : 1,
+      "nameRu" : "Южно-Африканская республика",
+      "nameKz" : "Оңтүстік-Африка республикасы",
+      "nameEn" : "Republic of South Africa",
+      "maxPeriodRegistration" : 30,
+      "visaRequired" : true,
+      "allowedDaysWithoutRegistration" : 5,
+      "countryCode" : "ZA",
+      "_links" : {
+        "self" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/107"
+        },
+        "country" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/107"
+        }
+      }
+    }, {
+      "id" : 144,
+      "code" : "85400",
+      "vmpVisible" : 1,
+      "status" : 1,
+      "nameRu" : "Туркменистан",
+      "nameKz" : "Түркменістан",
+      "nameEn" : "Turkmenistan",
+      "maxPeriodRegistration" : 30,
+      "visaRequired" : true,
+      "allowedDaysWithoutRegistration" : 5,
+      "countryCode" : "TM",
+      "_links" : {
+        "self" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/144"
+        },
+        "country" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/144"
+        }
+      }
+    }, {
+      "id" : 152,
+      "code" : "86100",
+      "vmpVisible" : 1,
+      "status" : 1,
+      "nameRu" : "Буркина Фасо - Верхняя Вольта",
+      "nameKz" : "Буркина Фасо - Верхняя Вольта",
+      "nameEn" : "Burkina Faso - Upper Volta",
+      "maxPeriodRegistration" : 30,
+      "visaRequired" : true,
+      "allowedDaysWithoutRegistration" : 5,
+      "countryCode" : "BF",
+      "_links" : {
+        "self" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/152"
+        },
+        "country" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/152"
+        }
+      }
+    }, {
+      "id" : 158,
+      "code" : "86800",
+      "vmpVisible" : 1,
+      "status" : 1,
+      "nameRu" : "Европейский союз (ЕС)",
+      "nameKz" : "Еуропа одағы (ЕО)",
+      "nameEn" : "The European Union (EU)",
+      "maxPeriodRegistration" : 30,
+      "visaRequired" : true,
+      "allowedDaysWithoutRegistration" : 5,
+      "countryCode" : null,
+      "_links" : {
+        "self" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/158"
+        },
+        "country" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/158"
+        }
+      }
+    }, {
+      "id" : 164,
+      "code" : "87200",
+      "vmpVisible" : 1,
+      "status" : 1,
+      "nameRu" : "Кабо-Верде (Зеленого мыса острова)",
+      "nameKz" : "Кабо-Верде (Зеленого мыса острова)",
+      "nameEn" : "Cape Verde (Cape Verde Islands)",
+      "maxPeriodRegistration" : 30,
+      "visaRequired" : true,
+      "allowedDaysWithoutRegistration" : 5,
+      "countryCode" : "CV",
+      "_links" : {
+        "self" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/164"
+        },
+        "country" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/164"
+        }
+      }
+    }, {
+      "id" : 14,
+      "code" : "27700",
+      "vmpVisible" : 1,
+      "status" : 1,
+      "nameRu" : "Французские Южные территории",
+      "nameKz" : "Француздік Оңтүстік аумақ",
+      "nameEn" : "French Southern Territories",
+      "maxPeriodRegistration" : 30,
+      "visaRequired" : true,
+      "allowedDaysWithoutRegistration" : 5,
+      "countryCode" : "TF",
+      "_links" : {
+        "self" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/14"
+        },
+        "country" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/14"
+        }
+      }
+    }, {
+      "id" : 136,
+      "code" : "84100",
+      "vmpVisible" : 1,
+      "status" : 1,
+      "nameRu" : "Азербайджан",
+      "nameKz" : "Әзірбайжан",
+      "nameEn" : "Azerbaijan",
+      "maxPeriodRegistration" : 30,
+      "visaRequired" : false,
+      "allowedDaysWithoutRegistration" : 5,
+      "countryCode" : "AZ",
+      "_links" : {
+        "self" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/136"
+        },
+        "country" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/136"
+        }
+      }
+    }, {
+      "id" : 72,
+      "code" : "7800",
+      "vmpVisible" : 1,
+      "status" : 1,
+      "nameRu" : "Конго Демократическая республика (Заир)",
+      "nameKz" : "Конго Демократическая республика (Заир)",
+      "nameEn" : "The Democratic Republic Kongo(Zair)",
+      "maxPeriodRegistration" : 30,
+      "visaRequired" : true,
+      "allowedDaysWithoutRegistration" : 5,
+      "countryCode" : "CD",
+      "_links" : {
+        "self" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/72"
+        },
+        "country" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/72"
+        }
+      }
+    }, {
+      "id" : 228,
+      "code" : "88000",
+      "vmpVisible" : 1,
+      "status" : 1,
+      "nameRu" : "Кот-Д Ивуар - Берег Слоновой Кости",
+      "nameKz" : "Піл сүйегі жағалауындағы - Кот-Д Ивуар",
+      "nameEn" : "Cote d'Ivoire - Ivory Coast",
+      "maxPeriodRegistration" : 30,
+      "visaRequired" : true,
+      "allowedDaysWithoutRegistration" : 5,
+      "countryCode" : null,
+      "_links" : {
+        "self" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/228"
+        },
+        "country" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/228"
+        }
+      }
+    }, {
+      "id" : 268,
+      "code" : "500",
+      "vmpVisible" : 1,
+      "status" : 1,
+      "nameRu" : "Великобритания",
+      "nameKz" : "Ұлыбритания",
+      "nameEn" : "United Kingdom",
+      "maxPeriodRegistration" : 30,
+      "visaRequired" : false,
+      "allowedDaysWithoutRegistration" : 30,
+      "countryCode" : "GB",
+      "_links" : {
+        "self" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/268"
+        },
+        "country" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/268"
+        }
+      }
+    }, {
+      "id" : 270,
+      "code" : "18800",
+      "vmpVisible" : 1,
+      "status" : 1,
+      "nameRu" : "Американское (Восточное) Самоа",
+      "nameKz" : "Шығыс Самоа",
+      "nameEn" : "American (Eastern) Samoa",
+      "maxPeriodRegistration" : 30,
+      "visaRequired" : true,
+      "allowedDaysWithoutRegistration" : 5,
+      "countryCode" : "AS",
+      "_links" : {
+        "self" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/270"
+        },
+        "country" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/270"
+        }
+      }
+    }, {
+      "id" : 273,
+      "code" : "19100",
+      "vmpVisible" : 1,
+      "status" : 1,
+      "nameRu" : "Сан-Томе и Принсипи",
+      "nameKz" : "Сан-Томе және Принсипи",
+      "nameEn" : "Sao Tome and Principe",
+      "maxPeriodRegistration" : 30,
+      "visaRequired" : true,
+      "allowedDaysWithoutRegistration" : 5,
+      "countryCode" : "ST",
+      "_links" : {
+        "self" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/273"
+        },
+        "country" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/273"
+        }
+      }
+    }, {
+      "id" : 278,
+      "code" : "19700",
+      "vmpVisible" : 1,
+      "status" : 1,
+      "nameRu" : "Сен-Пьер и Микелон",
+      "nameKz" : "Сен-Пьер және Микелон",
+      "nameEn" : "Saint-Pierre and Miquelon",
+      "maxPeriodRegistration" : 30,
+      "visaRequired" : true,
+      "allowedDaysWithoutRegistration" : 5,
+      "countryCode" : "PM",
+      "_links" : {
+        "self" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/278"
+        },
+        "country" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/278"
+        }
+      }
+    }, {
+      "id" : 279,
+      "code" : "19800",
+      "vmpVisible" : 1,
+      "status" : 1,
+      "nameRu" : "Сент-Винсент и Гренадины",
+      "nameKz" : "Сент-Винсент және Гренадины",
+      "nameEn" : "St. Vincent And Grenadines",
+      "maxPeriodRegistration" : 30,
+      "visaRequired" : true,
+      "allowedDaysWithoutRegistration" : 5,
+      "countryCode" : "VC",
+      "_links" : {
+        "self" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/279"
+        },
+        "country" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/279"
+        }
+      }
+    }, {
+      "id" : 281,
+      "code" : "10",
+      "vmpVisible" : 1,
+      "status" : 1,
+      "nameRu" : "Лицо без гражданства",
+      "nameKz" : "Лицо без гражданства",
+      "nameEn" : "A stateless person",
+      "maxPeriodRegistration" : 30,
+      "visaRequired" : true,
+      "allowedDaysWithoutRegistration" : 5,
+      "countryCode" : null,
+      "_links" : {
+        "self" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/281"
+        },
+        "country" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/281"
+        }
+      }
+    }, {
+      "id" : 288,
+      "code" : "15900",
+      "vmpVisible" : 1,
+      "status" : 1,
+      "nameRu" : "Новая Зеландия",
+      "nameKz" : "Жаңа Зеландия",
+      "nameEn" : "New Zealand",
+      "maxPeriodRegistration" : 30,
+      "visaRequired" : false,
+      "allowedDaysWithoutRegistration" : 30,
+      "countryCode" : "NZ",
+      "_links" : {
+        "self" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/288"
+        },
+        "country" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/288"
+        }
+      }
+    }, {
+      "id" : 290,
+      "code" : "17000",
+      "vmpVisible" : 1,
+      "status" : 1,
+      "nameRu" : "Пакистан",
+      "nameKz" : "Пәкістан",
+      "nameEn" : "Pakistan",
+      "maxPeriodRegistration" : 30,
+      "visaRequired" : true,
+      "allowedDaysWithoutRegistration" : 5,
+      "countryCode" : "PK",
+      "_links" : {
+        "self" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/290"
+        },
+        "country" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/290"
+        }
+      }
+    }, {
+      "id" : 305,
+      "code" : "8200",
+      "vmpVisible" : 1,
+      "status" : 1,
+      "nameRu" : "Острова Зеленого Мыса",
+      "nameKz" : "Зеленый Мыс аралы",
+      "nameEn" : "Cape Verde",
+      "maxPeriodRegistration" : 30,
+      "visaRequired" : true,
+      "allowedDaysWithoutRegistration" : 5,
+      "countryCode" : "CV",
+      "_links" : {
+        "self" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/305"
+        },
+        "country" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/305"
+        }
+      }
+    }, {
+      "id" : 142,
+      "code" : "85200",
+      "vmpVisible" : 1,
+      "status" : 1,
+      "nameRu" : "Кыргызстан",
+      "nameKz" : "Қырғызстан",
+      "nameEn" : "Kyrgyzstan",
+      "maxPeriodRegistration" : 90,
+      "visaRequired" : false,
+      "allowedDaysWithoutRegistration" : 30,
+      "countryCode" : "KG",
+      "_links" : {
+        "self" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/142"
+        },
+        "country" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/142"
+        }
+      }
+    }, {
+      "id" : 309,
+      "code" : "8700",
+      "vmpVisible" : 1,
+      "status" : 1,
+      "nameRu" : "Индия",
+      "nameKz" : "Үндістан",
+      "nameEn" : "India",
+      "maxPeriodRegistration" : 30,
+      "visaRequired" : true,
+      "allowedDaysWithoutRegistration" : 5,
+      "countryCode" : "IN",
+      "_links" : {
+        "self" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/309"
+        },
+        "country" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/309"
+        }
+      }
+    }, {
+      "id" : 137,
+      "code" : "84200",
+      "vmpVisible" : 1,
+      "status" : 1,
+      "nameRu" : "Армения",
+      "nameKz" : "Армения",
+      "nameEn" : "Armenia",
+      "maxPeriodRegistration" : 90,
+      "visaRequired" : false,
+      "allowedDaysWithoutRegistration" : 5,
+      "countryCode" : "AM",
+      "_links" : {
+        "self" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/137"
+        },
+        "country" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/137"
+        }
+      }
+    }, {
+      "id" : 130,
+      "code" : "83100",
+      "vmpVisible" : 1,
+      "status" : 1,
+      "nameRu" : "Беларусь",
+      "nameKz" : "Беларусь",
+      "nameEn" : "Belarus",
+      "maxPeriodRegistration" : 90,
+      "visaRequired" : false,
+      "allowedDaysWithoutRegistration" : 30,
+      "countryCode" : "BY",
+      "_links" : {
+        "self" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/130"
+        },
+        "country" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/130"
+        }
+      }
+    }, {
+      "id" : 54,
+      "code" : "2800",
+      "vmpVisible" : 1,
+      "status" : 1,
+      "nameRu" : "Бразилия",
+      "nameKz" : "Бразилия",
+      "nameEn" : "Brazil",
+      "maxPeriodRegistration" : 30,
+      "visaRequired" : false,
+      "allowedDaysWithoutRegistration" : 5,
+      "countryCode" : "BR",
+      "_links" : {
+        "self" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/54"
+        },
+        "country" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/54"
+        }
+      }
+    }, {
+      "id" : 138,
+      "code" : "84300",
+      "vmpVisible" : 1,
+      "status" : 1,
+      "nameRu" : "Грузия",
+      "nameKz" : "Грузия",
+      "nameEn" : "Georgia",
+      "maxPeriodRegistration" : 90,
+      "visaRequired" : false,
+      "allowedDaysWithoutRegistration" : 5,
+      "countryCode" : "GE",
+      "_links" : {
+        "self" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/138"
+        },
+        "country" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/138"
+        }
+      }
+    }, {
+      "id" : 285,
+      "code" : "11300",
+      "vmpVisible" : 1,
+      "status" : 1,
+      "nameRu" : "КНДР",
+      "nameKz" : "КХДР",
+      "nameEn" : "North Korea",
+      "maxPeriodRegistration" : 30,
+      "visaRequired" : true,
+      "allowedDaysWithoutRegistration" : 30,
+      "countryCode" : "KP",
+      "_links" : {
+        "self" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/285"
+        },
+        "country" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/285"
+        }
+      }
+    }, {
+      "id" : 131,
+      "code" : "83200",
+      "vmpVisible" : 1,
+      "status" : 1,
+      "nameRu" : "Молдова",
+      "nameKz" : "Молдова",
+      "nameEn" : "Moldova",
+      "maxPeriodRegistration" : 90,
+      "visaRequired" : false,
+      "allowedDaysWithoutRegistration" : 5,
+      "countryCode" : "MD",
+      "_links" : {
+        "self" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/131"
+        },
+        "country" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/131"
+        }
+      }
+    }, {
+      "id" : 291,
+      "code" : "14800",
+      "vmpVisible" : 1,
+      "status" : 1,
+      "nameRu" : "Монголия",
+      "nameKz" : "Монғолия",
+      "nameEn" : "Mongolia",
+      "maxPeriodRegistration" : 90,
+      "visaRequired" : false,
+      "allowedDaysWithoutRegistration" : 5,
+      "countryCode" : "MN",
+      "_links" : {
+        "self" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/291"
+        },
+        "country" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/291"
+        }
+      }
+    }, {
+      "id" : 10603,
+      "code" : "10603",
+      "vmpVisible" : 1,
+      "status" : 1,
+      "nameRu" : "Палау",
+      "nameKz" : "Палау",
+      "nameEn" : "Palau",
+      "maxPeriodRegistration" : 30,
+      "visaRequired" : true,
+      "allowedDaysWithoutRegistration" : 5,
+      "countryCode" : "PW",
+      "_links" : {
+        "self" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/10603"
+        },
+        "country" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/10603"
+        }
+      }
+    }, {
+      "id" : 195,
+      "code" : "90000",
+      "vmpVisible" : 1,
+      "status" : 1,
+      "nameRu" : "Северная Ирландия",
+      "nameKz" : "Солтүстік Ирландия",
+      "nameEn" : "Northern Ireland",
+      "maxPeriodRegistration" : 30,
+      "visaRequired" : false,
+      "allowedDaysWithoutRegistration" : 5,
+      "countryCode" : null,
+      "_links" : {
+        "self" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/195"
+        },
+        "country" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/195"
+        }
+      }
+    }, {
+      "id" : 276,
+      "code" : "19400",
+      "vmpVisible" : 1,
+      "status" : 1,
+      "nameRu" : "Святой Елены Остров",
+      "nameKz" : "Қасиетті Елена аралы",
+      "nameEn" : "Saint Helena Island",
+      "maxPeriodRegistration" : 30,
+      "visaRequired" : true,
+      "allowedDaysWithoutRegistration" : 5,
+      "countryCode" : "SH",
+      "_links" : {
+        "self" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/276"
+        },
+        "country" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/276"
+        }
+      }
+    }, {
+      "id" : 143,
+      "code" : "85300",
+      "vmpVisible" : 1,
+      "status" : 1,
+      "nameRu" : "Таджикистан",
+      "nameKz" : "Тәжікстан",
+      "nameEn" : "Tajikistan",
+      "maxPeriodRegistration" : 90,
+      "visaRequired" : false,
+      "allowedDaysWithoutRegistration" : 30,
+      "countryCode" : "TJ",
+      "_links" : {
+        "self" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/143"
+        },
+        "country" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/143"
+        }
+      }
+    }, {
+      "id" : 51,
+      "code" : "22500",
+      "vmpVisible" : 1,
+      "status" : 1,
+      "nameRu" : "Турция",
+      "nameKz" : "Түркия",
+      "nameEn" : "Turkey",
+      "maxPeriodRegistration" : 30,
+      "visaRequired" : false,
+      "allowedDaysWithoutRegistration" : 5,
+      "countryCode" : "TR",
+      "_links" : {
+        "self" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/51"
+        },
+        "country" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/51"
+        }
+      }
+    }, {
+      "id" : 146,
+      "code" : "85500",
+      "vmpVisible" : 1,
+      "status" : 1,
+      "nameRu" : "Узбекистан",
+      "nameKz" : "Өзбекстан",
+      "nameEn" : "Uzbekistan",
+      "maxPeriodRegistration" : 30,
+      "visaRequired" : false,
+      "allowedDaysWithoutRegistration" : 5,
+      "countryCode" : "UZ",
+      "_links" : {
+        "self" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/146"
+        },
+        "country" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/146"
+        }
+      }
+    }, {
+      "id" : 8,
+      "code" : "24710",
+      "vmpVisible" : 1,
+      "status" : 1,
+      "nameRu" : "Чехия",
+      "nameKz" : "Чехия",
+      "nameEn" : "Czech Republic",
+      "maxPeriodRegistration" : 30,
+      "visaRequired" : true,
+      "allowedDaysWithoutRegistration" : 30,
+      "countryCode" : "CZ",
+      "_links" : {
+        "self" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/8"
+        },
+        "country" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/8"
+        }
+      }
+    }, {
+      "id" : 11,
+      "code" : "24800",
+      "vmpVisible" : 1,
+      "status" : 1,
+      "nameRu" : "Чили",
+      "nameKz" : "Чили",
+      "nameEn" : "Chile",
+      "maxPeriodRegistration" : 30,
+      "visaRequired" : false,
+      "allowedDaysWithoutRegistration" : 5,
+      "countryCode" : "CL",
+      "_links" : {
+        "self" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/11"
+        },
+        "country" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/11"
+        }
+      }
+    }, {
+      "id" : 307,
+      "code" : "11400",
+      "vmpVisible" : 1,
+      "status" : 1,
+      "nameRu" : "Южная Корея",
+      "nameKz" : "Оңтүстік Корея",
+      "nameEn" : "South Korea",
+      "maxPeriodRegistration" : 30,
+      "visaRequired" : false,
+      "allowedDaysWithoutRegistration" : 5,
+      "countryCode" : "KR",
+      "_links" : {
+        "self" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/307"
+        },
+        "country" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/307"
+        }
+      }
+    } ]
+  },
+  "_links" : {
+    "self" : {
+      "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country{?page,size,sort}",
+      "templated" : true
+    },
+    "profile" : {
+      "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/profile/country"
+    },
+    "search" : {
+      "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/country/search"
+    }
+  },
+  "page" : {
+    "size" : 1000,
+    "totalElements" : 253,
+    "totalPages" : 1,
+    "number" : 0
+  }
+}

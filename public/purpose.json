@@ -1,0 +1,407 @@
+{
+  "_embedded" : {
+    "purposes" : [ {
+      "id" : 3,
+      "code" : "55",
+      "vmpVisible" : 1,
+      "status" : 1,
+      "nameRu" : "Частная",
+      "nameKz" : "Жеке",
+      "nameEn" : "Private",
+      "_links" : {
+        "self" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/purpose/3"
+        },
+        "purpose" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/purpose/3"
+        }
+      }
+    }, {
+      "id" : 4,
+      "code" : "31",
+      "vmpVisible" : 1,
+      "status" : 1,
+      "nameRu" : "Частная - усыновление",
+      "nameKz" : "Жеке - бала асырап алу",
+      "nameEn" : "Private - adoption",
+      "_links" : {
+        "self" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/purpose/4"
+        },
+        "purpose" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/purpose/4"
+        }
+      }
+    }, {
+      "id" : 14,
+      "code" : "11",
+      "vmpVisible" : 1,
+      "status" : 1,
+      "nameRu" : "Туризм",
+      "nameKz" : "Туризм",
+      "nameEn" : "Tourism",
+      "_links" : {
+        "self" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/purpose/14"
+        },
+        "purpose" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/purpose/14"
+        }
+      }
+    }, {
+      "id" : 16,
+      "code" : "66",
+      "vmpVisible" : 1,
+      "status" : 1,
+      "nameRu" : "Деловая",
+      "nameKz" : "Іскер",
+      "nameEn" : "Business",
+      "_links" : {
+        "self" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/purpose/16"
+        },
+        "purpose" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/purpose/16"
+        }
+      }
+    }, {
+      "id" : 17,
+      "code" : "71",
+      "vmpVisible" : 1,
+      "status" : 1,
+      "nameRu" : "Деловая - торговля",
+      "nameKz" : "Іскер- сауда",
+      "nameEn" : "Business - trade",
+      "_links" : {
+        "self" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/purpose/17"
+        },
+        "purpose" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/purpose/17"
+        }
+      }
+    }, {
+      "id" : 19,
+      "code" : "73",
+      "vmpVisible" : 1,
+      "status" : 1,
+      "nameRu" : "Миссионерство",
+      "nameKz" : "Миссионерлік",
+      "nameEn" : "Missionary",
+      "_links" : {
+        "self" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/purpose/19"
+        },
+        "purpose" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/purpose/19"
+        }
+      }
+    }, {
+      "id" : 20,
+      "code" : "58",
+      "vmpVisible" : 1,
+      "status" : 1,
+      "nameRu" : "Транзит",
+      "nameKz" : "Транзит",
+      "nameEn" : "Transit",
+      "_links" : {
+        "self" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/purpose/20"
+        },
+        "purpose" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/purpose/20"
+        }
+      }
+    }, {
+      "id" : 23,
+      "code" : "57",
+      "vmpVisible" : 1,
+      "status" : 1,
+      "nameRu" : "Лечение",
+      "nameKz" : "Емделу",
+      "nameEn" : "Treatment",
+      "_links" : {
+        "self" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/purpose/23"
+        },
+        "purpose" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/purpose/23"
+        }
+      }
+    }, {
+      "id" : 11,
+      "code" : "46",
+      "vmpVisible" : 1,
+      "status" : 1,
+      "nameRu" : "Работа - по разрешению",
+      "nameKz" : "Жұмыс - рұқсат бойынша",
+      "nameEn" : "Employment - resolution",
+      "_links" : {
+        "self" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/purpose/11"
+        },
+        "purpose" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/purpose/11"
+        }
+      }
+    }, {
+      "id" : 12,
+      "code" : "44",
+      "vmpVisible" : 1,
+      "status" : 1,
+      "nameRu" : "Работа - по международному договору",
+      "nameKz" : "Жұмыс - халықаралық келісім бойынша",
+      "nameEn" : "Employment - on an international treaty",
+      "_links" : {
+        "self" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/purpose/12"
+        },
+        "purpose" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/purpose/12"
+        }
+      }
+    }, {
+      "id" : 13,
+      "code" : "45",
+      "vmpVisible" : 1,
+      "status" : 1,
+      "nameRu" : "Работа - член семьи работника",
+      "nameKz" : "Жұмыс - жұмысшы жанұясының мүшесі",
+      "nameEn" : "Work - a member of the employee's family",
+      "_links" : {
+        "self" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/purpose/13"
+        },
+        "purpose" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/purpose/13"
+        }
+      }
+    }, {
+      "id" : 15,
+      "code" : "43",
+      "vmpVisible" : 1,
+      "status" : 1,
+      "nameRu" : "Учеба",
+      "nameKz" : "Оқу",
+      "nameEn" : "Learning",
+      "_links" : {
+        "self" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/purpose/15"
+        },
+        "purpose" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/purpose/15"
+        }
+      }
+    }, {
+      "id" : 18,
+      "code" : "34",
+      "vmpVisible" : 1,
+      "status" : 1,
+      "nameRu" : "Деловая - международные перевозки",
+      "nameKz" : "Іскер- халықаралық тасымалдар",
+      "nameEn" : "Business - international transport",
+      "_links" : {
+        "self" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/purpose/18"
+        },
+        "purpose" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/purpose/18"
+        }
+      }
+    }, {
+      "id" : 21,
+      "code" : "9",
+      "vmpVisible" : 1,
+      "status" : 1,
+      "nameRu" : "Инвесторская",
+      "nameKz" : "Инвесторлық",
+      "nameEn" : "Investor",
+      "_links" : {
+        "self" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/purpose/21"
+        },
+        "purpose" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/purpose/21"
+        }
+      }
+    }, {
+      "id" : 22,
+      "code" : "91",
+      "vmpVisible" : 1,
+      "status" : 1,
+      "nameRu" : "Инвесторская - член семьи инвестора",
+      "nameKz" : "Инвесторлық - инвестор жанұясының мүшесі",
+      "nameEn" : "Investor - a member of the family of the investor",
+      "_links" : {
+        "self" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/purpose/22"
+        },
+        "purpose" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/purpose/22"
+        }
+      }
+    }, {
+      "id" : 24,
+      "code" : "56",
+      "vmpVisible" : 1,
+      "status" : 1,
+      "nameRu" : "Постоянное место жительства",
+      "nameKz" : "Тұрақты тұру орны",
+      "nameEn" : "Permanent residence",
+      "_links" : {
+        "self" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/purpose/24"
+        },
+        "purpose" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/purpose/24"
+        }
+      }
+    }, {
+      "id" : 1,
+      "code" : "14",
+      "vmpVisible" : 1,
+      "status" : 1,
+      "nameRu" : "Дипломат",
+      "nameKz" : "Дипломаттық",
+      "nameEn" : "Diplomatic",
+      "_links" : {
+        "self" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/purpose/1"
+        },
+        "purpose" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/purpose/1"
+        }
+      }
+    }, {
+      "id" : 2,
+      "code" : "2",
+      "vmpVisible" : 1,
+      "status" : 1,
+      "nameRu" : "Служебная",
+      "nameKz" : "Қызмет",
+      "nameEn" : "Official",
+      "_links" : {
+        "self" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/purpose/2"
+        },
+        "purpose" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/purpose/2"
+        }
+      }
+    }, {
+      "id" : 5,
+      "code" : "32",
+      "vmpVisible" : 1,
+      "status" : 1,
+      "nameRu" : "Частная - встреча с заключенным",
+      "nameKz" : "Жеке - қамаулымен кездесу",
+      "nameEn" : "Private - meeting with prisoners",
+      "_links" : {
+        "self" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/purpose/5"
+        },
+        "purpose" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/purpose/5"
+        }
+      }
+    }, {
+      "id" : 6,
+      "code" : "33",
+      "vmpVisible" : 1,
+      "status" : 1,
+      "nameRu" : "Частная на похороны",
+      "nameKz" : "Жеке - жерлеу рәсіміне ",
+      "nameEn" : "Private funeral",
+      "_links" : {
+        "self" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/purpose/6"
+        },
+        "purpose" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/purpose/6"
+        }
+      }
+    }, {
+      "id" : 7,
+      "code" : "35",
+      "vmpVisible" : 1,
+      "status" : 1,
+      "nameRu" : "Частная - посещение родных мест и могил родственников",
+      "nameKz" : "Жеке- Туысқандардың молаларына және туған жерлерге бару",
+      "nameEn" : "Private - visiting their homes and graves of relatives",
+      "_links" : {
+        "self" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/purpose/7"
+        },
+        "purpose" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/purpose/7"
+        }
+      }
+    }, {
+      "id" : 8,
+      "code" : "67",
+      "vmpVisible" : 1,
+      "status" : 1,
+      "nameRu" : "Работа",
+      "nameKz" : "Жұмыс",
+      "nameEn" : "Work",
+      "_links" : {
+        "self" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/purpose/8"
+        },
+        "purpose" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/purpose/8"
+        }
+      }
+    }, {
+      "id" : 9,
+      "code" : "41",
+      "vmpVisible" : 1,
+      "status" : 1,
+      "nameRu" : "Работа - артисты, спортсмены",
+      "nameKz" : "Жұмыс - әртістер, спортсмендер",
+      "nameEn" : "Jobs - actors, athletes",
+      "_links" : {
+        "self" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/purpose/9"
+        },
+        "purpose" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/purpose/9"
+        }
+      }
+    }, {
+      "id" : 10,
+      "code" : "42",
+      "vmpVisible" : 1,
+      "status" : 1,
+      "nameRu" : "Работа - первый руководитель",
+      "nameKz" : "Жұмыс - бірінші бастық",
+      "nameEn" : "Employment - the first head",
+      "_links" : {
+        "self" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/purpose/10"
+        },
+        "purpose" : {
+          "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/purpose/10"
+        }
+      }
+    } ]
+  },
+  "_links" : {
+    "self" : {
+      "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/purpose{?page,size,sort}",
+      "templated" : true
+    },
+    "profile" : {
+      "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/profile/purpose"
+    },
+    "search" : {
+      "href" : "http://vmp.gov.kz/api/vmp-api/dictionary/purpose/search"
+    }
+  },
+  "page" : {
+    "size" : 1000,
+    "totalElements" : 24,
+    "totalPages" : 1,
+    "number" : 0
+  }
+}
