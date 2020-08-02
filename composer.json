@@ -22,7 +22,7 @@
         "spatie/laravel-permission": "^3.8"
     },
     "require-dev": {
-        "barryvdh/laravel-ide-helper": "^2.6",
+   
         "facade/ignition": "^1.4",
         "fzaninotto/faker": "^1.4",
         "mockery/mockery": "^1.0",
@@ -36,8 +36,10 @@
     },
     "extra": {
         "laravel": {
-            "dont-discover": []
-        }
+            "dont-discover": [
+              "barryvdh/laravel-ide-helper"
+            ]
+          }
     },
     "autoload": {
         "psr-4": {
