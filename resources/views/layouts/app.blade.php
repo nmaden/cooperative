@@ -31,7 +31,8 @@
 <script type="text/javascript" src="js/bin/materialize.min.js"></script>
 
 <script type="text/javascript" src="js/bin/main.min.js"></script>
-<body style="display: none">
+<body >
+@yield('content')
 
 <!--JavaScript at end of body for optimized loading-->
 
