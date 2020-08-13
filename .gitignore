@@ -12,3 +12,4 @@ npm-debug.log
 yarn-error.log
 .gitlab-ci.yml
 .DS_Store
+.env
