@@ -84,10 +84,29 @@ class PaySenderController extends Controller
             if($request->type==1) {
                 return $array;
             }
-            else {
-                return $without_account;
+       
+    }
+
+    public function withoutAccount(Request $request)
+    {
+        $user = DB::table('model_has_roles')->where('model_id', Auth::id())->get();
+        $auth_role = $user[0]->role_id;
+        
+        $users = PaySender::orderBy('date_agreement', 'ASC')->with('user')->with("prices")->get();
+
+
+        $array = [];
+        $without_account = [];
+        $sum = 0;
+        for ($i=0; $i <count($users); $i++) { 
+            if($users[$i]->user==null) {
+                   
+                array_push($without_account,$users[$i]);
             }
-           
+         
+        }
+
+        return $without_account;
     }
 
     public function sumAmount($array) {
