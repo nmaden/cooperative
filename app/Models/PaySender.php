@@ -19,7 +19,8 @@ class PaySender extends Model
         'phone',
         'iin',
         'type_agreement',
-        'date_agreement'
+        'date_agreement',
+         'warning'
     ];
     public static function getAll()
     {
