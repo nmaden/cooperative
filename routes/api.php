@@ -15,6 +15,7 @@ use Illuminate\Http\Request;
 
 Route::prefix('v1')->group(function () {
     Route::prefix('guest')->group(function () {
+        Route::get('/get/news', 'Api\v1\PaySenderController@getNews');    
         Route::get('/region', 'Api\v1\KatoController@get_region');
         Route::post('/list', 'Api\v1\HotelController@guest');
     });
