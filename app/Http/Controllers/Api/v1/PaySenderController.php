@@ -61,7 +61,7 @@ class PaySenderController extends Controller
         $user = DB::table('model_has_roles')->where('model_id', Auth::id())->get();
         $auth_role = $user[0]->role_id;
         
-        $users = PaySender::orderBy('date_agreement', 'ASC')->with('user')->with("prices")->get();
+        $users = PaySender::orderBy('date_agreement', 'ASC')->where('type_agreement',1)->with('user')->with("prices")->get();
 
         // if($auth_role==1) {
 
