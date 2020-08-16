@@ -20,7 +20,8 @@ class PaySender extends Model
         'iin',
         'type_agreement',
         'date_agreement',
-         'warning'
+         'warning',
+         'comment'
     ];
     public static function getAll()
     {
