@@ -23,7 +23,37 @@ class PaySenderController extends Controller
      * @return \Illuminate\Http\Response
      */
 
-    
+    public function listByType(Request $request) {
+        $user = DB::table('model_has_roles')->where('model_id', Auth::id())->get();
+        $auth_role = $user[0]->role_id;
+        
+        $users = PaySender::orderBy('date_agreement', 'ASC')->where('type_agreement',$request->type_order)->with('user')->with("prices")->get();
+
+        $array = [];
+        $without_account = [];
+        $sum = 0;
+
+        for ($i=0; $i <count($users); $i++) { 
+            if($users[$i]->user!=null) {
+                
+                $this->sumAmount($users[$i]->prices);
+                $users[$i]->amount = $this->sumAmount($users[$i]->prices);
+
+                array_push($array,$users[$i]);
+            }
+            else {
+                array_push($without_account,$users[$i]);
+            }
+        }
+
+        if($request->type==1) {
+            return $array;
+        }
+        else {
+            return $without_account;
+        }
+
+    }
     public function index(Request $request)
     {
      
@@ -57,11 +87,7 @@ class PaySenderController extends Controller
             else {
                 return $without_account;
             }
-            // return PaySender ::getAll();
-        // }
-        // else {
-        //         return response()->json(['error' => 'У вас нет полномочий'], 200);
-        // }    
+           
     }
 
     public function sumAmount($array) {

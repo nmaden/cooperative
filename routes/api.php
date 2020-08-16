@@ -49,7 +49,8 @@ Route::prefix('v1')->group(function () {
             
             Route::get('/get/transactions', 'Api\v1\PaySenderController@getTransactions');
             Route::post('/send/transaction', 'Api\v1\PaySenderController@sendTransaction');
-
+            
+            Route::get('/paysender/listbytype', 'Api\v1\PaySenderController@listByType');
             Route::get('/paysender/list', 'Api\v1\PaySenderController@index');
             Route::post('/paysender', 'Api\v1\PaySenderController@create');
 
