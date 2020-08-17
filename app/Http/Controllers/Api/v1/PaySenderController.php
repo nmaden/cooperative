@@ -119,6 +119,45 @@ class PaySenderController extends Controller
         return $sum;
 
     }
+    
+    public function deletePaysender(Request $request) {
+        $client = PaySender::query()->where('id',$request->client_id)->delete();
+        $user = User::query()->where('client_id',$request->client_id)->delete();
+        $price = PayTransaction::query()->where('client_id',$request->client_id)->delete();
+
+
+        return [
+            'success'=>'Успешно удален'
+        ];
+    }
+    public function getOneTransaction(Request $request) {
+        $price = PayTransaction::query()->where('client_id',$request->client_id)->where('id',$request->transactions_id)->first();
+
+        return $price;
+
+    }
+    public function updateTransaction(Request $request) {
+        $price = PayTransaction::query()->where('id',$request->id)->where('client_id',$request->client_id)->first();
+
+        $price->amount = $request->amount;
+
+        $price->type_of_transaction = $request->type_of_transaction;
+        $price->date_of_transaction = $request->date_of_transaction;
+        $price->number_payment = $request->number_payment;
+        $price->street_of_bank   = $request->street_of_bank;
+        $price->save();
+
+        return [
+            'success'=>'Успешно отредактирован'
+        ];
+    }
+    public function deleteTransaction(Request $request) {
+        $price = PayTransaction::query()->where('client_id',$request->client_id)->delete();
+
+        return [
+            'success'=>'Успешно удален'
+        ];
+    }
 
     public function update_data(Request $request) {
 
@@ -206,10 +245,13 @@ class PaySenderController extends Controller
                 return response()->json(['success' => "Очеред продлен на 2 месяца напоминаем клиент следующий раз будет удален из списка"], 200);
             }
             else if($client->warning>2) {
+                $client = PaySender::query()->where('id',$request->client_id)->delete();
+                $user = User::query()->where('client_id',$request->client_id)->delete();
+                $price = PayTransaction::query()->where('client_id',$request->client_id)->delete();
+
                 return response()->json(['success' => "Пользователь удален из списка"], 200);
+
             }
-
-
         }
 
 

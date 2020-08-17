@@ -43,6 +43,13 @@ Route::prefix('v1')->group(function () {
 
         Route::prefix('user')->group(function () {
             
+            Route::post('/delete/paysender', 'Api\v1\PaySenderController@deletePaysender');
+            Route::post('/delete/paytransaction', 'Api\v1\PaySenderController@deleteTransaction');
+            Route::post('/update/paytransaction', 'Api\v1\PaySenderController@updateTransaction');
+            Route::post('/get/paytransaction', 'Api\v1\PaySenderController@getOneTransaction');
+            
+
+
             Route::post('/update/data', 'Api\v1\PaySenderController@update_data');
             
             Route::get('/get/user/email', 'Api\v1\UserController@get_user_email');
