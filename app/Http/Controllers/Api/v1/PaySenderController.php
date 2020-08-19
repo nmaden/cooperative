@@ -152,7 +152,7 @@ class PaySenderController extends Controller
         ];
     }
     public function deleteTransaction(Request $request) {
-        $price = PayTransaction::query()->where('client_id',$request->client_id)->delete();
+        $price = PayTransaction::query()->where('client_id',$request->client_id)->where('id',$request->transaction_id)->delete();
 
         return [
             'success'=>'Успешно удален'
