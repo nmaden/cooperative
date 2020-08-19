@@ -227,7 +227,7 @@ class PaySenderController extends Controller
 
         if($first->lessThanOrEqualTo($second)) {
             if($paytransaction->save()) {
-                return response()->json(['success' => "Успешно добавлен транзакция"], 200);
+                return response()->json(['success' => "Успешно добавлен транзакция",'first'=> $first,'second'=> $second], 200);
             }
         }
         else {
