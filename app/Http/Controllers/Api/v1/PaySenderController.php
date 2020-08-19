@@ -221,9 +221,9 @@ class PaySenderController extends Controller
         // $create = $year.'-'.$month.'-'.$day;
 
 
-        $first = $request->date_of_transaction->toDateTimeString();
+        $first = Carbon::parse($request->date_of_transaction)->toDateTimeString();
 
-        $second = $client->date_agreement->toDateTimeString();    ;
+        $second = Carbon::parse($client->date_agreement)->toDateTimeString();
 
         if($first->lessThanOrEqualTo($second)) {
             if($paytransaction->save()) {
