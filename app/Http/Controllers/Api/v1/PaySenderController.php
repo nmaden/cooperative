@@ -211,19 +211,19 @@ class PaySenderController extends Controller
         $paytransaction->date_of_transaction = $request->date_of_transaction;
 
       
-        $month = explode("-",$request->date_of_transaction)[1];
-        $year =  explode("-",$request->date_of_transaction)[0];
+        // $month = explode("-",$request->date_of_transaction)[1];
+        // $year =  explode("-",$request->date_of_transaction)[0];
 
 
-        $day = explode("-",$client->date_agreement)[2];
+        // $day = explode("-",$client->date_agreement)[2];
 
 
-        $create = $year.'-'.$month.'-'.$day;
+        // $create = $year.'-'.$month.'-'.$day;
 
 
         $first = Carbon::parse($request->date_of_transaction);
 
-        $second = Carbon::parse($create);
+        $second = Carbon::parse($client->date_agreement);
 
         if($first->lessThanOrEqualTo($second)) {
             if($paytransaction->save()) {
