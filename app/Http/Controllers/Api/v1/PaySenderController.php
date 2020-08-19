@@ -199,7 +199,7 @@ class PaySenderController extends Controller
 
         $client = PaySender::query()->where('id',$request->client_id)->first();
 
-
+       
         $paytransaction = new PayTransaction;
         
     
@@ -211,30 +211,19 @@ class PaySenderController extends Controller
         $paytransaction->date_of_transaction = $request->date_of_transaction;
 
       
-        // $month = explode("-",$request->date_of_transaction)[1];
-        // $year =  explode("-",$request->date_of_transaction)[0];
-
-
-        // $day = explode("-",$client->date_agreement)[2];
-
-
-        // $create = $year.'-'.$month.'-'.$day;
-
-
-        $first = Carbon::parse($request->date_of_transaction)->toDateTimeString();
-
-        $second = Carbon::parse($client->date_agreement)->toDateTimeString();
-
-        if($first->lessThanOrEqualTo($second)) {
+   
+       
+        if(strtotime($request->date_of_transaction)>=strtotime($client->date_agreement)) {
             if($paytransaction->save()) {
-                return response()->json(['success' => "Успешно добавлен транзакция",'first'=> $first,'second'=> $second], 200);
+                return response()->json(['success' => "Успешно добавлен транзакция"], 200);
             }
         }
         else {
-            $m = intval(explode("-",$client->date_agreement)[1]);
-            $m = $m+1;
+           
             $client->warning = $client->warning+1;
-            $client->date_agreement = $year.'-'.$m.'-'.$day;
+
+            $add_date = Carbon::parse($client->date_agreement)->addMonth();
+            $client->date_agreement = $add_date;
 
             $client->save();
             
