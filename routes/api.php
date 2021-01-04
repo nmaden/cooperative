@@ -15,10 +15,13 @@ use Illuminate\Http\Request;
 
 Route::prefix('v1')->group(function () {
     Route::prefix('guest')->group(function () {
+
         Route::get('/get/feedback', 'Api\v1\PaySenderController@getFeedback');
         Route::get('/get/news', 'Api\v1\PaySenderController@getNews');    
         Route::get('/region', 'Api\v1\KatoController@get_region');
         Route::post('/list', 'Api\v1\HotelController@guest');
+
+        Route::post('/send/message', 'Api\v1\TelegramSendController@send_message');
     });
     Route::middleware('auth:api')->get('/user', 'Api\v1\HotelController@user');
 
