@@ -6,7 +6,7 @@
     <meta name="description" content="iff-company">
     <!-- CSRF Token -->
     <meta name="csrf-token" content="{{ csrf_token() }}">
-    <title>iff-company</title>
+    <title>kaspi-group</title>
     <!-- Scripts -->
     {{--    <script src="{{ asset('js/app.js') }}" defer></script>--}}
 
