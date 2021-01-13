@@ -4,7 +4,7 @@ Authorization: 'Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiIxIiwianRp
 
 
 ###
-POST http://127.0.0.1:8001/api/v1/auth/register 
+POST https://newapi.ck-kaspi-group.info/api/v1/auth/register 
 Content-Type: application/json
 
 {   
@@ -19,7 +19,7 @@ Content-Type: application/json
 }
 
 ###
-POST http://127.0.0.1:8000/api/v1/auth/login 
+POST https://newapi.ck-kaspi-group.info/api/v1/auth/login 
 Content-Type: application/json
 
 
@@ -30,7 +30,11 @@ Content-Type: application/json
 
 
 ###
-POST http://127.0.0.1:8001/api/v1/user/apartment/create
+POST https://newapi.ck-kaspi-group.info/api/v1/guest/update
+Content-Type: Content-Type: application/json
+
+###
+POST https://newapi.ck-kaspi-group.info/api/v1/user/apartment/create
 Content-Type: Content-Type: application/json
 Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiIxIiwianRpIjoiZjdjNGVhYTRhMjAxOGUyYzVkNGFkMzIxOGVlNzcwYjg1MTAwYjY5MTFjZjE0NmQxNDA2YzNiNTQzMWM1ZTM0ZjhlMDg1YjhmYWNkZTY4YTIiLCJpYXQiOjE2MTAzOTI2MjgsIm5iZiI6MTYxMDM5MjYyOCwiZXhwIjoxNjI2MDMxMDI4LCJzdWIiOiIxIiwic2NvcGVzIjpbXX0.pKZ1andsEoa20mSi9wrw-L2RWEkPJt6mFd1HLue8OiGo3EmQvxFjBSN69la2Ahci9kFNdqs-6Ear-X-GPyGwEkcWs0UXoE7Fy9M6H4gQ4u2zZF__EGLvrQpdyhwYpWW1XLN1s4L7pYr3tcephx2OLltr3h7IG0oHQIDVepF9ry41URNl8BUXvP7Q2P14lcRBXsE8e8FAQZ3urdiQr6egWDB23z72AEytjFTlBY6F1T0NLIhXWg9fohZraVwJ18_XBqdEsK1ysH9dO1zc8Cn8UbwmZ_rJmuBPAKdlB9cXOTITP3YNdYn1kriVjKtrmBE-N0bqYHXe_p6t6G3eo2N6sGyMqtT1dV1XFHMI__J3nKW_nOkDJN1fL_zCaAWC272Bgw6rnohbQmEGM6sESSv1Qidk0NIQYoCeFf11uLZzmmn5f_EZIIIllcLgEtYrFen9c9kb35SDNh3qd5YLFDJfjeeyAXWFsMkDGyGotk0fXyQTJ6Xg6Mji2nLfBZeaFryZ-RuJHcB2HVc5_LOnYDhuNRGg9GFAiFO9oY-9Tz8Rhf1gKveNKcm4YOt29D2gzs3bG3ksV_KvGdT1yN28dQ9xDUJ9hZ4CPhoBF2OjJrruhv3s8GXRCHnprDk8dn6lYx1xfJO3wsSXaBeC49aVGwvtif3710oxfInpzg1xHBpysww
 
