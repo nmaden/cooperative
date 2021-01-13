@@ -18,12 +18,17 @@ class TelegramSendController extends Controller
       if ($validator->fails()) {
           return response()->json(['error' => $validator->messages()], 422);
       }
-      $message = $request->phone.' '.$request->name;
 
+      $phone = '+7'.substr($request->phone,1,strlen($request->phone));
 
+      $link = "https://wa.me/".$phone."";
+
+      $message = '+7'.substr($request->phone,1,strlen($request->phone)).' '.$request->name.' '.$link;
+      
+    
       $this->send_telegram(281900870,$message); // I
-      $this->send_telegram(891800093,$message); // Wamwi
-      $this->send_telegram(635324651,$message); // Menedjer
+      // $this->send_telegram(891800093,$message); // Wamwi
+      // $this->send_telegram(635324651,$message); // Menedjer
     }
     public function send_telegram($id,$message)
     {
