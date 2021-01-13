@@ -40,6 +40,7 @@ Route::prefix('v1')->group(function () {
 
     Route::middleware('auth:api')->group(function () {
 
+      
         Route::get('/all/logs', 'Api\v1\LogsController@index');
 
         Route::post('regula', 'Api\v1\UserController@regula');
@@ -52,7 +53,11 @@ Route::prefix('v1')->group(function () {
             Route::post('/get/paytransaction', 'Api\v1\PaySenderController@getOneTransaction');
             
 
-
+            Route::post('/apartment/create', 'Api\v1\ApartmentController@create');
+            Route::get('/apartment/get', 'Api\v1\ApartmentController@get');
+            Route::post('/apartment/order', 'Api\v1\ApartmentController@order');
+            Route::post('/apartment/edit', 'Api\v1\ApartmentController@edit');
+    
             Route::post('/update/data', 'Api\v1\PaySenderController@update_data');
             
             Route::get('/get/user/email', 'Api\v1\UserController@get_user_email');
