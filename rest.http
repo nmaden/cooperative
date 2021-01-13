@@ -8,11 +8,11 @@ POST https://newapi.ck-kaspi-group.info/api/v1/auth/register
 Content-Type: application/json
 
 {   
-    "name":"Аслан",
-    "surname": "Аслан",
+    "name":"Санжар",
+    "surname": "Санжар",
     "patronymic": "",
-    "email": "aslan.ck.kaspi@gmail.com",
-    "password":"aslan.ck.kaspi@gmail.com",
+    "email": "sanzhar.ck.kaspi@gmail.com",
+    "password":"sanzhar.ck.kaspi@gmail.com",
     "role": {
         "name": "Администратор МР"
     }
@@ -36,8 +36,11 @@ Content-Type: Content-Type: application/json
 ###
 POST https://newapi.ck-kaspi-group.info/api/v1/user/apartment/create
 Content-Type: Content-Type: application/json
-Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiIxIiwianRpIjoiZjdjNGVhYTRhMjAxOGUyYzVkNGFkMzIxOGVlNzcwYjg1MTAwYjY5MTFjZjE0NmQxNDA2YzNiNTQzMWM1ZTM0ZjhlMDg1YjhmYWNkZTY4YTIiLCJpYXQiOjE2MTAzOTI2MjgsIm5iZiI6MTYxMDM5MjYyOCwiZXhwIjoxNjI2MDMxMDI4LCJzdWIiOiIxIiwic2NvcGVzIjpbXX0.pKZ1andsEoa20mSi9wrw-L2RWEkPJt6mFd1HLue8OiGo3EmQvxFjBSN69la2Ahci9kFNdqs-6Ear-X-GPyGwEkcWs0UXoE7Fy9M6H4gQ4u2zZF__EGLvrQpdyhwYpWW1XLN1s4L7pYr3tcephx2OLltr3h7IG0oHQIDVepF9ry41URNl8BUXvP7Q2P14lcRBXsE8e8FAQZ3urdiQr6egWDB23z72AEytjFTlBY6F1T0NLIhXWg9fohZraVwJ18_XBqdEsK1ysH9dO1zc8Cn8UbwmZ_rJmuBPAKdlB9cXOTITP3YNdYn1kriVjKtrmBE-N0bqYHXe_p6t6G3eo2N6sGyMqtT1dV1XFHMI__J3nKW_nOkDJN1fL_zCaAWC272Bgw6rnohbQmEGM6sESSv1Qidk0NIQYoCeFf11uLZzmmn5f_EZIIIllcLgEtYrFen9c9kb35SDNh3qd5YLFDJfjeeyAXWFsMkDGyGotk0fXyQTJ6Xg6Mji2nLfBZeaFryZ-RuJHcB2HVc5_LOnYDhuNRGg9GFAiFO9oY-9Tz8Rhf1gKveNKcm4YOt29D2gzs3bG3ksV_KvGdT1yN28dQ9xDUJ9hZ4CPhoBF2OjJrruhv3s8GXRCHnprDk8dn6lYx1xfJO3wsSXaBeC49aVGwvtif3710oxfInpzg1xHBpysww
+Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiIxIiwianRpIjoiYzEyNDMzN2ZmMmM5MDNhY2UxNDlkZDgzZDNhMzg1ZWUxZWQyZjhlODQ5NjE2MDZhYTY3OTFmYTBhZmM5NDBkN2JjYzNmYTRmYTg2ZGFiMWEiLCJpYXQiOjE2MTA1NTcwNDUsIm5iZiI6MTYxMDU1NzA0NSwiZXhwIjoxNjI2MTk1NDQzLCJzdWIiOiIxIiwic2NvcGVzIjpbXX0.P6y9IcNX_oVIWDU1qqmqoOi1DFyikTwmtQ6N9ngtfyR0SaI4_kdive3cuQ1TUxWVU4L6NJ2mXZDkYNBh-ZK4iZDNqO7EbXqudoY5-e8cCWV6rzNOWG5w6Hg4ON52emVixSquXq9BqbsVqaFJSb4eWWnKtOLgLgQBf8F36i4L75le4Pr6TIDce-Rbp-rg3P4MaW3ttsS_Yr1l-yniXPJ8FLC8LL_1c5QONorw1Wa6BxZJSVU__1dAEjLTXgAG4_32h1-oRFALpZT9czBS_bAdD_Y6ls9FvDpcFtalzSqvfDmdinOp9v3gYKhp8J5F8iE4ijyBzYzW2yitM7DMz6Ctc64c1w1258MQlBzOW3qnd-_JWifo7CeVenJSSAQhkI1BH_xqMK29a57mMs1dKUjFpE6Fd7cfNJ9qC8Z_haGL0n8HCVROnG6Upkdz0Ry-bKbxEkbjaemiVpEfJrNUTiqphYvZslaIC7HMqg62Mh3ovhKnTT1iXBCavikTEAQyV-HmIE2yrbPsy_yiXcsW4rSDdiSLL-dJrPcBjXszYaORyzZpt4Nse3zGWtm71J69nNx5APRLS_hu-g0WajK2BA1nmx5Ozcj8gVAhDea1I1CvCG2sTczwWo1gyClLOKwFilrxZliVivYPYNWq9hHTSz_Y_f5-8zyTkGL3o4F8osx4gmk
 
+{
+
+}
 ###
 GET http://127.0.0.1:8000/api/v1/user/apartment/get
 Content-Type: Content-Type: application/json

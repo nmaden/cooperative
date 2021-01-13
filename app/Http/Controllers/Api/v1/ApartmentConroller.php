@@ -11,6 +11,7 @@ use App\Models\Kvartira;
 use App\Models\User;
 use App\Models\Transaction;
 use Illuminate\Support\Facades\DB;
+use Illuminate\Support\Facades\Auth;
 
 class ApartmentController extends Controller
 {
