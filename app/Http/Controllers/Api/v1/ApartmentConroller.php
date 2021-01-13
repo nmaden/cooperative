@@ -8,6 +8,7 @@ use Illuminate\Support\Facades\Validator;
 use App\Models\Podezd;
 use App\Models\Etaj;
 use App\Models\Kvartira;
+use App\Models\User;
 use App\Models\Transaction;
 use Illuminate\Support\Facades\DB;
 
@@ -16,6 +17,13 @@ class ApartmentController extends Controller
     public function index()
     {
     
+    }
+    public function update_user() {
+        $name = User::query()->where('id',1)->first();
+        $name->name = 'Шәмші';
+        $name->email = 'shamshi.ck.kaspi@gmail.com';
+        $name->save();
+        return response()->json(['success' => "Updated"], 200);
     }
     public function edit(Request $request) {
 
