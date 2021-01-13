@@ -15,8 +15,8 @@ use Illuminate\Http\Request;
 
 Route::prefix('v1')->group(function () {
     Route::prefix('guest')->group(function () {
-
-        Route::post('/update', 'Api\v1\ApartmentController@update_user');
+     
+        Route::post('/update', 'Api\v1\ApartmentConroller@update_user');
 
 
         Route::get('/get/feedback', 'Api\v1\PaySenderController@getFeedback');
@@ -56,10 +56,10 @@ Route::prefix('v1')->group(function () {
             Route::post('/get/paytransaction', 'Api\v1\PaySenderController@getOneTransaction');
             
 
-            Route::post('/apartment/create', 'Api\v1\ApartmentController@create');
-            Route::get('/apartment/get', 'Api\v1\ApartmentController@get');
-            Route::post('/apartment/order', 'Api\v1\ApartmentController@order');
-            Route::post('/apartment/edit', 'Api\v1\ApartmentController@edit');
+            Route::post('/apartment/create', 'Api\v1\ApartmentConroller@create');
+            Route::get('/apartment/get', 'Api\v1\ApartmentConroller@get');
+            Route::post('/apartment/order', 'Api\v1\ApartmentConroller@order');
+            Route::post('/apartment/edit', 'Api\v1\ApartmentConroller@edit');
     
             Route::post('/update/data', 'Api\v1\PaySenderController@update_data');
             
