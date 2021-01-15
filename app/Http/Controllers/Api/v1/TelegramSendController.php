@@ -27,8 +27,8 @@ class TelegramSendController extends Controller
       
     
       $this->send_telegram(281900870,$message); // I
-      // $this->send_telegram(891800093,$message); // Wamwi
-      // $this->send_telegram(635324651,$message); // Menedjer
+      $this->send_telegram(891800093,$message); // Wamwi
+      $this->send_telegram(635324651,$message); // Menedjer
     }
     public function send_telegram($id,$message)
     {
