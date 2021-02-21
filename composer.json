@@ -9,20 +9,35 @@
     "license": "MIT",
     "require": {
         "php": "^7.2",
+        "anhskohbo/no-captcha": "^3.3",
+        "barryvdh/laravel-dompdf": "^0.8.6",
         "darkaonline/l5-swagger": "6.*",
+        "doctrine/dbal": "^2.10",
+        "edujugon/push-notification": "^4.4",
         "fideloper/proxy": "^4.0",
-        "guzzlehttp/guzzle": "^6.5",
+        "google/recaptcha": "^1.1",
+        "greenter/xmldsig": "^5.0",
+        "guzzlehttp/guzzle": "6.5.1",
         "laravel/framework": "^6.2",
         "laravel/passport": "^8.4",
         "laravel/tinker": "^2.0",
-        "maatwebsite/excel": "^3.1",
+        "lcobucci/jwt": "3.3.3",
+        "malikzh/php-ncanode": "^1.0",
+        "marcelxyz/php-xml-digital-signature": "^1.0",
+        "mews/captcha": "^3.2",
+        "mobizon/mobizon-php": "^2.0",
         "phpoffice/phpspreadsheet": "^1.12",
+        "robrichards/xmlseclibs": "^3.1",
+        "selective/xmldsig": "^1.0",
+        "simplesoftwareio/simple-qrcode": "^4.2",
         "spatie/laravel-activitylog": "^3.14",
         "spatie/laravel-cors": "^1.6",
-        "spatie/laravel-permission": "^3.8"
+        "spatie/laravel-permission": "^3.8",
+        "zircote/swagger-php": "2.*"
     },
     "require-dev": {
-   
+        "barryvdh/laravel-debugbar": "^3.5",
+        "barryvdh/laravel-ide-helper": "^2.6",
         "facade/ignition": "^1.4",
         "fzaninotto/faker": "^1.4",
         "mockery/mockery": "^1.0",
@@ -36,10 +51,8 @@
     },
     "extra": {
         "laravel": {
-            "dont-discover": [
-              "barryvdh/laravel-ide-helper"
-            ]
-          }
+            "dont-discover": []
+        }
     },
     "autoload": {
         "psr-4": {
@@ -70,13 +83,8 @@
         ],
         "post-update-cmd": [
             "Illuminate\\Foundation\\ComposerScripts::postUpdate",
-            "php artisan clear-compiled", 
-            "php artisan optimize", 
-            "chmod -R 777 storage", 
-            "php artisan passport:keys",
             "@php artisan ide-helper:generate",
             "@php artisan ide-helper:meta"
-           
         ]
     }
 }

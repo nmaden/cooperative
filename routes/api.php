@@ -43,7 +43,35 @@ Route::prefix('v1')->group(function () {
 
     Route::middleware('auth:api')->group(function () {
 
+        Route::prefix('calculator')->group(function () {
+
+
+            Route::get('/get/element', 'Api\v1\CreateCalcElement@getElement');
+            Route::get('/get/calc', 'Api\v1\CreateCalcElement@getCalc');
+
+            Route::post('/edit/element', 'Api\v1\CreateCalcElement@editElement');
+            Route::post('/edit/calc', 'Api\v1\CreateCalcElement@editCalc');
+
+            Route::get('/delete/element', 'Api\v1\CreateCalcElement@deleteElement');
+            Route::get('/delete/calc', 'Api\v1\CreateCalcElement@deleteCalc');
+            
+
+            Route::post('/create/order', 'Api\v1\CreateCalcElement@createOrder');
+            Route::post('/save/order', 'Api\v1\CreateCalcElement@saveOrder');
+
+            
+            Route::get('/get/orders', 'Api\v1\CreateCalcElement@getAllOrder');
+            Route::post('/edit/order', 'Api\v1\CreateCalcElement@editOrder');
       
+            Route::get('/delete/order', 'Api\v1\CreateCalcElement@deleteOrder');
+       
+            
+
+
+
+            Route::post('/create/element', 'Api\v1\CreateCalcElement@create');
+            Route::get('/get/elements', 'Api\v1\CreateCalcElement@get');
+        });
         Route::get('/all/logs', 'Api\v1\LogsController@index');
 
         Route::post('regula', 'Api\v1\UserController@regula');
@@ -107,6 +135,7 @@ Route::prefix('v1')->group(function () {
             Route::post('/get/user/count', 'Api\v1\UserController@get_users_count');
         });
 
+    
 
         Route::prefix('role')->group(function () {
             Route::post('/index', 'Api\v1\RoleController@index');

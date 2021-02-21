@@ -37,6 +37,10 @@ Route::view('/hotels','main');
 
 Route::view('/main','main');
 
+
+Route::get('/get/kenes', 'Api\v1\CreateCalcElement@showKenesReference');
+
+
 // Route::get('/h/otels','Api\v1\HotelController@public');
 
 Route::get('/get/news', 'PaySenderController@getNew');

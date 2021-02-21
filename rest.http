@@ -19,13 +19,13 @@ Content-Type: application/json
 }
 
 ###
-POST https://newapi.ck-kaspi-group.info/api/v1/auth/login 
+POST http://127.0.0.1:8000/api/v1/auth/login 
 Content-Type: application/json
 
 
 {   
-    "email":"shamshi.ck.kaspi@gmail.com",
-    "password" : "darakanoit@gmail.com"
+    "email":"darakanoit@gmail.com",
+    "password" : "12345678"
 }
 
 
