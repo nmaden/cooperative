@@ -17,8 +17,8 @@ use SimpleSoftwareIO\QrCode\Facades\QrCode;
 <body style="font-family: DejaVu Sans;">
 
 
-    <p>Дата заказа: 20.02.2020</p>
-    <p>Дата редактирования: 20.02.2021</p>
+    <p>Дата заказа: {{$name}}</p>
+    <p>Дата редактирования: 20.02.2021  {{$id}}</p>
 
     <p>Cотрудник: </p>
     <p>Примечание: </p>

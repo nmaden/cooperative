@@ -82,13 +82,15 @@ class CreateCalcElement extends Controller
     }
 
    
-    public function showKenesReference(Request $request){
+    public function showKenesReference(){
         
       
-        $client = [];
-        $pdf = PDF::loadView('pdf_reference', $client);
+        $journal = 1;
+        $pdf = PDF::loadView('pdf_reference',  ['qr' => 3,
+            'id' => 2,
+            'name' =>1]);
         header('Content-Type: application/pdf');
-        $pdf->setPaper('a4' , 'portrait');
+    
         return $pdf->save();
 
        
